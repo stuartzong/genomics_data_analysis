@@ -1,0 +1,156 @@
+	patient	virus_x	gene_x	virus_y	gene_y
+0	HTMCP-03-06-02001	No-Hits	-	Human papillomavirus type 16	TP63;TP63;TP63;TP63;TP63;TP63;TP63
+1	HTMCP-03-06-02002	No-Hits	-	Human papillomavirus type 52	intergenic;intergenic;intergenic;intergenic;intergenic
+2	HTMCP-03-06-02003	Human papillomavirus type 16	-	Human papillomavirus type 16	CD5;intergenic
+3	HTMCP-03-06-02006	No-Hits	-	Human papillomavirus type 18	-
+4	HTMCP-03-06-02006	No-Hits	-	Human papillomavirus type 45	ARID2;SCAF11;SCAF11;SCAF11;SCAF11;SCAF11
+5	HTMCP-03-06-02007	No-Hits	-	No-Hits	-
+6	HTMCP-03-06-02008	No-Hits	-	Human papillomavirus type 16	-
+7	HTMCP-03-06-02008	No-Hits	-	Human papillomavirus type 9	KIAA1958
+8	HTMCP-03-06-02012	Human papillomavirus type 34	-	Human papillomavirus type 16	intergenic;intergenic
+9	HTMCP-03-06-02012	Human papillomavirus type 34	-	Human papillomavirus type 18	-
+10	HTMCP-03-06-02012	Human papillomavirus type 34	-	Human papillomavirus type 34	-
+11	HTMCP-03-06-02012	Human papillomavirus type 34	-	Human papillomavirus type 58	-
+12	HTMCP-03-06-02012	Human papillomavirus type 34	-	Human papillomavirus type 73	TBC1D3;TBC1D3,LOC440434;LOC440434;intergenic
+13	HTMCP-03-06-02012	Human papillomavirus type 73	intergenic	Human papillomavirus type 16	intergenic;intergenic
+14	HTMCP-03-06-02012	Human papillomavirus type 73	intergenic	Human papillomavirus type 18	-
+15	HTMCP-03-06-02012	Human papillomavirus type 73	intergenic	Human papillomavirus type 34	-
+16	HTMCP-03-06-02012	Human papillomavirus type 73	intergenic	Human papillomavirus type 58	-
+17	HTMCP-03-06-02012	Human papillomavirus type 73	intergenic	Human papillomavirus type 73	TBC1D3;TBC1D3,LOC440434;LOC440434;intergenic
+18	HTMCP-03-06-02013	No-Hits	-	Human papillomavirus type 16	FHIT;FHIT;FHIT;FHIT;FHIT;FHIT;FHIT;FHIT;FHIT;FHIT
+19	HTMCP-03-06-02020	No-Hits	-	Human papillomavirus type 18	-
+20	HTMCP-03-06-02020	No-Hits	-	Human papillomavirus type 45	intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic
+21	HTMCP-03-06-02026	No-Hits	-	No-Hits	-
+22	HTMCP-03-06-02036	Human papillomavirus type 16	-	Human papillomavirus type 16	-
+23	HTMCP-03-06-02037	Human papillomavirus type 52	-	Human papillomavirus type 52	TMEM242;TMEM242;TMEM242;TMEM242;TMEM242;TMEM242
+24	HTMCP-03-06-02040	No-Hits	-	Human papillomavirus type 52	intergenic;intergenic;intergenic
+25	HTMCP-03-06-02042	Human papillomavirus type 16	CDC42SE1;CDC42SE1	Human papillomavirus type 16	PRUNE;PRUNE;PRUNE;PRUNE;CDC42SE1;CDC42SE1;CDC42SE1;CDC42SE1;CDC42SE1;MLLT11;MLLT11;MLLT11;MLLT11
+26	HTMCP-03-06-02046	Human papillomavirus type 16	intergenic;intergenic;intergenic	Human papillomavirus type 16	intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;STK11;STK11;STK11;STK11;STK11
+27	HTMCP-03-06-02046	Human papillomavirus type 16	intergenic;intergenic;intergenic	Human papillomavirus type 45	-
+28	HTMCP-03-06-02047	No-Hits	-	Human papillomavirus type 18	KLF12;KLF12;KLF12;KLF12;KLF12;KLF12;KLF12;KLF12;KLF12;BC037497
+29	HTMCP-03-06-02054	Human papillomavirus type 52	-	Human papillomavirus type 52	intergenic;FNBP1L;FNBP1L;SLC20A2;SLC20A2;SLC20A2;SMIM19
+30	HTMCP-03-06-02057	No-Hits	-	Human papillomavirus type 58	intergenic;KRT32;KRT32;KRT32
+31	HTMCP-03-06-02058	Human papillomavirus type 18	intergenic;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677	Human papillomavirus type 18	intergenic;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677
+32	HTMCP-03-06-02061	No-Hits	-	Human papillomavirus type 16	-
+33	HTMCP-03-06-02063	Human papillomavirus type 16	LRP1B;LRP1B;intergenic	Human papillomavirus type 16	LRP1B;LRP1B;LRP1B;LRP1B;LRP1B;SERHL2;SERHL2
+34	HTMCP-03-06-02068	No-Hits	-	Human papillomavirus type 18	intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic
+35	HTMCP-03-06-02068	No-Hits	-	Human papillomavirus type 59	intergenic
+36	HTMCP-03-06-02070	No-Hits	-	Human papillomavirus type 31	intergenic;intergenic;intergenic;intergenic;intergenic
+37	HTMCP-03-06-02070	No-Hits	-	Human papillomavirus type 35	-
+38	HTMCP-03-06-02070	No-Hits	-	Human papillomavirus type 45	-
+39	HTMCP-03-06-02071	No-Hits	-	Human papillomavirus type 16	MIB1;RNF103-CHMP3;BC066991,RNF103,RNF103-CHMP3;BC066991,RNF103,RNF103-CHMP3;BC066991,RNF103,RNF103-CHMP3;RNF103-CHMP3,RNF103;RNF103-CHMP3,RNF103;RNF103-CHMP3;RNF103-CHMP3;RNF103-CHMP3;RNF103-CHMP3;RMND5A
+40	HTMCP-03-06-02074	No-Hits	-	Human papillomavirus type 18	KRT26;KRT26;KRT26;KRT26
+41	HTMCP-03-06-02075	No-Hits	-	Human papillomavirus type 18	intergenic;intergenic;intergenic;intergenic;intergenic;PRIM2
+42	HTMCP-03-06-02075	No-Hits	-	No-Hits	-
+43	HTMCP-03-06-02076	No-Hits	-	Human papillomavirus type 18	intergenic;intergenic;RASSF6;intergenic;intergenic;intergenic;intergenic;intergenic
+44	HTMCP-03-06-02085	No-Hits	-	No-Hits	-
+45	HTMCP-03-06-02089	No-Hits	-	Human papillomavirus type 26	TP63;TP63;ELOVL2
+46	HTMCP-03-06-02089	No-Hits	-	Human papillomavirus type 69	-
+47	HTMCP-03-06-02092	No-Hits	-	Human papillomavirus type 18	-
+48	HTMCP-03-06-02092	No-Hits	-	Human papillomavirus type 45	CRTC3;CRTC3;CRTC3;CRTC3;CRTC3;CRTC3;CRTC3;CRTC3;CRTC3
+49	HTMCP-03-06-02097	Human papillomavirus type 16	intergenic;RNA5-8S5;intergenic;intergenic	Human papillomavirus type 16	intergenic;intergenic
+50	HTMCP-03-06-02097	Human papillomavirus type 16	intergenic;RNA5-8S5;intergenic;intergenic	Human papillomavirus type 45	-
+51	HTMCP-03-06-02097	Human papillomavirus type 16	intergenic;RNA5-8S5;intergenic;intergenic	Human papillomavirus type 59	RREB1;RREB1;RREB1;RREB1;RREB1;RREB1;RREB1
+52	HTMCP-03-06-02098	Human papillomavirus type 18	GPR137B	Human papillomavirus type 18	GPR137B;GPR137B
+53	HTMCP-03-06-02098	Human papillomavirus type 9	THSD7B	Human papillomavirus type 18	GPR137B;GPR137B
+54	HTMCP-03-06-02099	No-Hits	-	Human papillomavirus type 45	intergenic;intergenic;intergenic
+55	HTMCP-03-06-02103	Human papillomavirus type 18	intergenic;THSD4	Human papillomavirus type 16	-
+56	HTMCP-03-06-02103	Human papillomavirus type 18	intergenic;THSD4	Human papillomavirus type 18	-
+57	HTMCP-03-06-02103	Human papillomavirus type 53	-	Human papillomavirus type 16	-
+58	HTMCP-03-06-02103	Human papillomavirus type 53	-	Human papillomavirus type 18	-
+59	HTMCP-03-06-02108	Human papillomavirus type 16	RPTOR;RPTOR;RPTOR;RPTOR;RPTOR;intergenic;FAM157B;intergenic	Human papillomavirus type 16	-
+60	HTMCP-03-06-02109	Human papillomavirus type 16	GRAMD1B;intergenic;C12orf44;bpl;bpl;MGAT4C;ERBB2;ERBB2;IGSF11;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;intergenic;B4GALT4;NCK1;SENP2;intergenic;intergenic;DGKI	Human papillomavirus type 16	NR4A1;NR4A1;NR4A1;C12orf44;C12orf44;bpl;bpl;bpl;intergenic;intergenic;ERBB2;ERBB2;ERBB2;ERBB2;ERBB2;ERBB2;ERBB2;MIEN1;MIEN1;MIEN1;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;UPK1B;intergenic;intergenic;B4GALT4;CT64;LOC646762
+61	HTMCP-03-06-02110	Human papillomavirus type 18	intergenic;intergenic;intergenic;DQ515899,DQ515898,LOC727677	Human papillomavirus type 18	PKD1L1;intergenic;intergenic;intergenic;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677
+62	HTMCP-03-06-02110	Human papillomavirus type 45	DQ515899,DQ515898,LOC727677	Human papillomavirus type 18	PKD1L1;intergenic;intergenic;intergenic;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677;DQ515899,DQ515898,LOC727677
+63	HTMCP-03-06-02113	No-Hits	-	Human papillomavirus type 18	intergenic;intergenic;CDH5;CDH5;CDH5;BEAN1
+64	HTMCP-03-06-02113	No-Hits	-	No-Hits	-
+65	HTMCP-03-06-02120	Human papillomavirus type 58	intergenic	Human papillomavirus type 52	-
+66	HTMCP-03-06-02120	Human papillomavirus type 58	intergenic	Human papillomavirus type 58	-
+67	HTMCP-03-06-02125	No-Hits	-	Human papillomavirus type 16	FHIT;FHIT;FHIT;FHIT
+68	HTMCP-03-06-02128	Human papillomavirus type 16	intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic	Human papillomavirus type 16	-
+69	HTMCP-03-06-02139	No-Hits	-	Human papillomavirus type 18	intergenic
+70	HTMCP-03-06-02144	Human papillomavirus type 16	-	Human papillomavirus type 16	-
+71	HTMCP-03-06-02145	Human papillomavirus type 33	SUGT1P3,TPTE2P5;ELF1;ELF1	Human papillomavirus type 33	TPTE2P5;TPTE2P5;SUGT1P3,TPTE2P5;ELF1;ELF1;ELF1;ELF1;ELF1;ELF1;ELF1;WBP4
+72	HTMCP-03-06-02145	Human papillomavirus type 33	SUGT1P3,TPTE2P5;ELF1;ELF1	Human papillomavirus type 58	-
+73	HTMCP-03-06-02145	Human papillomavirus type 58	-	Human papillomavirus type 33	TPTE2P5;TPTE2P5;SUGT1P3,TPTE2P5;ELF1;ELF1;ELF1;ELF1;ELF1;ELF1;ELF1;WBP4
+74	HTMCP-03-06-02145	Human papillomavirus type 58	-	Human papillomavirus type 58	-
+75	HTMCP-03-06-02145	Human papillomavirus type 9	intergenic	Human papillomavirus type 33	TPTE2P5;TPTE2P5;SUGT1P3,TPTE2P5;ELF1;ELF1;ELF1;ELF1;ELF1;ELF1;ELF1;WBP4
+76	HTMCP-03-06-02145	Human papillomavirus type 9	intergenic	Human papillomavirus type 58	-
+77	HTMCP-03-06-02147	Human papillomavirus type 16	intergenic;intergenic;ABCC10;POLH;intergenic;IMPG1;BC012753;RNA5-8S5;RNA5-8S5;RNA5-8S5	Human papillomavirus type 16	FAM83B;RNA5-8S5
+78	HTMCP-03-06-02148	No-Hits	-	Human papillomavirus type 16	intergenic
+79	HTMCP-03-06-02149	Human papillomavirus type 51	-	Human papillomavirus type 16	-
+80	HTMCP-03-06-02149	Human papillomavirus type 51	-	Human papillomavirus type 51	-
+81	HTMCP-03-06-02149	Human papillomavirus type 51	-	Human papillomavirus type 58	-
+82	HTMCP-03-06-02149	Human papillomavirus type 51	-	Human papillomavirus type 82	BC042052;BC042052;BC042052;BC042052;BC042052;BC042052;BC042052;HV975509,MYC;HV975509,MYC;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic
+83	HTMCP-03-06-02149	Human papillomavirus type 58	-	Human papillomavirus type 16	-
+84	HTMCP-03-06-02149	Human papillomavirus type 58	-	Human papillomavirus type 51	-
+85	HTMCP-03-06-02149	Human papillomavirus type 58	-	Human papillomavirus type 58	-
+86	HTMCP-03-06-02149	Human papillomavirus type 58	-	Human papillomavirus type 82	BC042052;BC042052;BC042052;BC042052;BC042052;BC042052;BC042052;HV975509,MYC;HV975509,MYC;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic
+87	HTMCP-03-06-02149	Human papillomavirus type 82	intergenic;intergenic;BC042052;BC042052;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic	Human papillomavirus type 16	-
+88	HTMCP-03-06-02149	Human papillomavirus type 82	intergenic;intergenic;BC042052;BC042052;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic	Human papillomavirus type 51	-
+89	HTMCP-03-06-02149	Human papillomavirus type 82	intergenic;intergenic;BC042052;BC042052;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic	Human papillomavirus type 58	-
+90	HTMCP-03-06-02149	Human papillomavirus type 82	intergenic;intergenic;BC042052;BC042052;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic	Human papillomavirus type 82	BC042052;BC042052;BC042052;BC042052;BC042052;BC042052;BC042052;HV975509,MYC;HV975509,MYC;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic
+91	HTMCP-03-06-02150	No-Hits	-	Human papillomavirus type 18	CEACAM6;CEACAM6;CEACAM6;CEACAM6
+92	HTMCP-03-06-02151	Human papillomavirus type 16	Metazoa_SRP,RAD51B;Metazoa_SRP,RAD51B	Human papillomavirus type 16	-
+93	HTMCP-03-06-02152	No-Hits	-	Human papillomavirus type 51	-
+94	HTMCP-03-06-02155	Human papillomavirus type 16	-	Human papillomavirus type 16	intergenic;intergenic;intergenic;intergenic;intergenic;intergenic
+95	HTMCP-03-06-02156	Human papillomavirus type 16	-	Human papillomavirus type 33	-
+96	HTMCP-03-06-02156	Human papillomavirus type 16	-	Human papillomavirus type 58	-
+97	HTMCP-03-06-02156	Human papillomavirus type 33	-	Human papillomavirus type 33	-
+98	HTMCP-03-06-02156	Human papillomavirus type 33	-	Human papillomavirus type 58	-
+99	HTMCP-03-06-02156	Human papillomavirus type 52	-	Human papillomavirus type 33	-
+100	HTMCP-03-06-02156	Human papillomavirus type 52	-	Human papillomavirus type 58	-
+101	HTMCP-03-06-02156	Human papillomavirus type 58	-	Human papillomavirus type 33	-
+102	HTMCP-03-06-02156	Human papillomavirus type 58	-	Human papillomavirus type 58	-
+103	HTMCP-03-06-02157	No-Hits	-	No-Hits	-
+104	HTMCP-03-06-02170	No-Hits	-	Human papillomavirus type 18	-
+105	HTMCP-03-06-02170	No-Hits	-	Human papillomavirus type 45	TP63;TP63;TP63;TP63;TP63;TP63;TP63
+106	HTMCP-03-06-02174	Human papillomavirus type 16	intergenic;intergenic;intergenic;intergenic;SEMA3D;SEMA3D	Human papillomavirus type 16	-
+107	HTMCP-03-06-02175	Human papillomavirus type 58	PHYH;SEPHS1;BMPR1A;CROCC;intergenic;PAK1;PAK1;DLG2;DLG2;DLG2;TMEM126B;intergenic;intergenic;intergenic;AK057471,BC128161;intergenic;intergenic;intergenic;intergenic;SNRPN;intergenic;intergenic;intergenic;intergenic;SPAG16;SPAG16;CYP27A1;CYP27A1;intergenic;intergenic;PKHD1;PKHD1;PKHD1;PKHD1;PKHD1;PKHD1;LY86-AS1;COG5;COG5;DDC;DDC;intergenic;intergenic;intergenic;intergenic;LOC100132167;intergenic;intergenic;intergenic;intergenic;intergenic;HS6ST2;HS6ST2;HS6ST2	Human papillomavirus type 16	-
+108	HTMCP-03-06-02175	Human papillomavirus type 58	PHYH;SEPHS1;BMPR1A;CROCC;intergenic;PAK1;PAK1;DLG2;DLG2;DLG2;TMEM126B;intergenic;intergenic;intergenic;AK057471,BC128161;intergenic;intergenic;intergenic;intergenic;SNRPN;intergenic;intergenic;intergenic;intergenic;SPAG16;SPAG16;CYP27A1;CYP27A1;intergenic;intergenic;PKHD1;PKHD1;PKHD1;PKHD1;PKHD1;PKHD1;LY86-AS1;COG5;COG5;DDC;DDC;intergenic;intergenic;intergenic;intergenic;LOC100132167;intergenic;intergenic;intergenic;intergenic;intergenic;HS6ST2;HS6ST2;HS6ST2	Human papillomavirus type 58	DLG2;DLG2;intergenic;LY86-AS1
+109	HTMCP-03-06-02176	Human papillomavirus type 16	intergenic;intergenic;intergenic;AZI1;intergenic;MAML3;MAML3;MAML3;MAML3;MAML3	Human papillomavirus type 16	MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3
+110	HTMCP-03-06-02176	Human papillomavirus type 16	intergenic;intergenic;intergenic;AZI1;intergenic;MAML3;MAML3;MAML3;MAML3;MAML3	Human papillomavirus type 58	MAML3
+111	HTMCP-03-06-02176	Human papillomavirus type 58	MAML3	Human papillomavirus type 16	MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3;MAML3
+112	HTMCP-03-06-02176	Human papillomavirus type 58	MAML3	Human papillomavirus type 58	MAML3
+113	HTMCP-03-06-02179	Human papillomavirus type 18	RAB40B;VARS,CFB,PSMG4,AK096219,SKIV2L,C4B_2,C2,CYP21A1P;VARS,CFB,PSMG4,AK096219,SKIV2L,C4B_2,C2,CYP21A1P;VARS,PSMG4,AK096219,SKIV2L,C4B_2,C2,CYP21A1P;STK19,SLC22A23,TNXB,CFB,LSM2,AK096219,C4B_2,C2;STK19,SLC22A23,TNXB,CFB,LSM2,AK096219,C4B_2,C2;SLC22A23,CFB,TNXB,C4B_2;CLTA;RNF38	Human papillomavirus type 16	-
+114	HTMCP-03-06-02179	Human papillomavirus type 18	RAB40B;VARS,CFB,PSMG4,AK096219,SKIV2L,C4B_2,C2,CYP21A1P;VARS,CFB,PSMG4,AK096219,SKIV2L,C4B_2,C2,CYP21A1P;VARS,PSMG4,AK096219,SKIV2L,C4B_2,C2,CYP21A1P;STK19,SLC22A23,TNXB,CFB,LSM2,AK096219,C4B_2,C2;STK19,SLC22A23,TNXB,CFB,LSM2,AK096219,C4B_2,C2;SLC22A23,CFB,TNXB,C4B_2;CLTA;RNF38	Human papillomavirus type 18	RAB40B;RAB40B;VARS,CYP21A2,CFB,NELFE,PSMG4,AK096219,SKIV2L,C4B_2,C2,CYP21A1P;CLTA;CLTA;CLTA;CLTA;CLTA;CLTA
+115	HTMCP-03-06-02179	Human papillomavirus type 97	SLC22A23,CFB,TNXB,C4B_2,C2,HSPA1L	Human papillomavirus type 16	-
+116	HTMCP-03-06-02179	Human papillomavirus type 97	SLC22A23,CFB,TNXB,C4B_2,C2,HSPA1L	Human papillomavirus type 18	RAB40B;RAB40B;VARS,CYP21A2,CFB,NELFE,PSMG4,AK096219,SKIV2L,C4B_2,C2,CYP21A1P;CLTA;CLTA;CLTA;CLTA;CLTA;CLTA
+117	HTMCP-03-06-02180	Human papillomavirus type 18	RAD51B;intergenic	Human papillomavirus type 18	RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;intergenic;CLTA
+118	HTMCP-03-06-02180	Human papillomavirus type 18	RAD51B;intergenic	No-Hits	-
+119	HTMCP-03-06-02185	Human papillomavirus type 18	THADA;THADA	Human papillomavirus type 16	-
+120	HTMCP-03-06-02185	Human papillomavirus type 18	THADA;THADA	Human papillomavirus type 18	THADA;THADA;THADA;THADA;THADA;THADA;THADA;THADA;THADA;THADA;THADA;THADA;THADA;intergenic
+121	HTMCP-03-06-02194	No-Hits	-	Human papillomavirus type 16	HINT1;LYRM7;LYRM7;LYRM7;LYRM7;LYRM7;LYRM7;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic
+122	HTMCP-03-06-02195	Human papillomavirus type 45	intergenic	Human papillomavirus type 45	intergenic;intergenic;intergenic
+123	HTMCP-03-06-02196	No-Hits	-	Human papillomavirus type 16	RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B;RAD51B
+124	HTMCP-03-06-02202	Human papillomavirus type 16	BCL11B;BCL11B;BCL11B;BCL11B;BCL11B;BCL11B;BCL11B	Alphapapillomavirus 9	-
+125	HTMCP-03-06-02202	Human papillomavirus type 16	BCL11B;BCL11B;BCL11B;BCL11B;BCL11B;BCL11B;BCL11B	Human papillomavirus type 16	-
+126	HTMCP-03-06-02203	No-Hits	-	Human papillomavirus type 18	intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic
+127	HTMCP-03-06-02204	No-Hits	-	Human papillomavirus type 18	-
+128	HTMCP-03-06-02205	Human papillomavirus type 16	intergenic	Human papillomavirus type 16	KCNN3
+129	HTMCP-03-06-02209	No-Hits	-	Human papillomavirus type 16	GUCY2GP;ACSL5;ACSL5;ACSL5;ACSL5;ACSL5
+130	HTMCP-03-06-02210	Human papillomavirus type 16	intergenic	Human papillomavirus type 16	intergenic;intergenic;intergenic;intergenic;intergenic;intergenic
+131	HTMCP-03-06-02213	Human papillomavirus type 16	-	Human papillomavirus type 16	MPPED2;ANKFN1;FGF12;FGF12;FGF12;FGF12;FGF12;FGF12
+132	HTMCP-03-06-02214	Human papillomavirus type 16	PTPN13;PTPN13	Human papillomavirus type 16	PTPN13
+133	HTMCP-03-06-02215	No-Hits	-	Human papillomavirus type 16	RASEF;intergenic;intergenic;intergenic;intergenic;intergenic
+134	HTMCP-03-06-02216	No-Hits	-	Human papillomavirus type 59	intergenic;intergenic;intergenic
+135	HTMCP-03-06-02217	No-Hits	-	Alphapapillomavirus 9	-;-
+136	HTMCP-03-06-02217	No-Hits	-	Human papillomavirus type 16	-
+137	HTMCP-03-06-02219	No-Hits	-	Human papillomavirus type 18	-
+138	HTMCP-03-06-02219	No-Hits	-	Human papillomavirus type 45	intergenic;intergenic
+139	HTMCP-03-06-02219	No-Hits	-	Human papillomavirus type 97	intergenic
+140	HTMCP-03-06-02225	Human papillomavirus type 69	AK127472	Human papillomavirus type 51	-
+141	HTMCP-03-06-02225	Human papillomavirus type 69	AK127472	Human papillomavirus type 69	AK127472;AK127472;AK127472;AK127472;intergenic
+142	HTMCP-03-06-02225	Human papillomavirus type 69	AK127472	Human papillomavirus type 82	-
+143	HTMCP-03-06-02225	No-Hits	-	Human papillomavirus type 51	-
+144	HTMCP-03-06-02225	No-Hits	-	Human papillomavirus type 69	AK127472;AK127472;AK127472;AK127472;intergenic
+145	HTMCP-03-06-02225	No-Hits	-	Human papillomavirus type 82	-
+146	HTMCP-03-06-02230	No-Hits	-	Human papillomavirus type 51	-
+147	HTMCP-03-06-02230	No-Hits	-	Human papillomavirus type 82	IRS1
+148	HTMCP-03-06-02235	No-Hits	-	Human papillomavirus type 45	COL4A5;COL4A5;COL4A5;COL4A5;intergenic;intergenic;IRS4;IRS4;intergenic;intergenic
+149	HTMCP-03-06-02238	Human papillomavirus type 18	MYO9A;MYO9A;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;intergenic;COL6A3;COL6A3;COL6A3;LRRFIP1;LRRFIP1;intergenic;intergenic	Human papillomavirus type 18	-
+150	HTMCP-03-06-02239	No-Hits	-	Alphapapillomavirus 9	-;-
+151	HTMCP-03-06-02239	No-Hits	-	Human papillomavirus type 16	-
+152	HTMCP-03-06-02240	No-Hits	-	Alphapapillomavirus 9	-;-
+153	HTMCP-03-06-02240	No-Hits	-	Human papillomavirus type 16	CLPTM1L;CLPTM1L;CLPTM1L;CLPTM1L;CLPTM1L;CLPTM1L;CLPTM1L;CLPTM1L;CLPTM1L;CLPTM1L;CLPTM1L;intergenic
+154	HTMCP-03-06-02242	No-Hits	-	Human papillomavirus type 45	intergenic;intergenic;intergenic;intergenic;intergenic;TUBD1

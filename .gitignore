@@ -1,0 +1,14 @@
+*.py[oc]
+# setup.py working directory
+
+# generated c source and built extensions
+*.c
+*.so
+*.pyd
+
+# virtualenv stuff
+.venv
+
+# Editor temporary/working/backup files
+*$
+*~

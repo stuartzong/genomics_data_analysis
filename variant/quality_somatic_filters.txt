@@ -1,0 +1,20 @@
+[quality_filters] 
+DNA_t_cov: 10 
+DNA_t_altC: 3
+DNA_t_af: 0.1
+
+#or
+RNA_t_cov: 10
+RNA_t_altC: 3
+RNA_t_af: 0.1
+
+#misalignment at exon junctions
+RNA_t_altref_total_percent: 0.8
+DNA_t_altref_total_percent: 0.8
+
+
+[somatic_filters]
+DNA_n_af: 0.1
+DNA_n_altC: 2
+RNA_n_af: 0.1
+RNA_n_altC: 2
