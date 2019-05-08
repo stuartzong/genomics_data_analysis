@@ -1,0 +1,1069 @@
+sample,QC_metrics,metrics_value
+HTMCP-03-06-02025-01A-01D,X coverage (incl. duplicate reads),183.899175644
+HTMCP-03-06-02025-10A-01D,X coverage (incl. duplicate reads),285.534513948
+HTMCP-03-06-02044-01A-01D,X coverage (incl. duplicate reads),363.252142043
+HTMCP-03-06-02044-10A-01D,X coverage (incl. duplicate reads),279.375457212
+HTMCP-03-06-02060-01A-01D,X coverage (incl. duplicate reads),242.445487671
+HTMCP-03-06-02060-10A-01D,X coverage (incl. duplicate reads),318.900284121
+HTMCP-03-06-02061-01A-01D,X coverage (incl. duplicate reads),293.24201374
+HTMCP-03-06-02061-10A-01D,X coverage (incl. duplicate reads),324.734076584
+HTMCP-03-06-02062-01A-01D,X coverage (incl. duplicate reads),196.45826678
+HTMCP-03-06-02062-10A-01D,X coverage (incl. duplicate reads),332.283273675
+HTMCP-03-06-02066-01A-01D,X coverage (incl. duplicate reads),278.836830383
+HTMCP-03-06-02066-10A-01D,X coverage (incl. duplicate reads),264.841384576
+HTMCP-03-06-02067-01A-01D,X coverage (incl. duplicate reads),315.893222279
+HTMCP-03-06-02067-10A-01D,X coverage (incl. duplicate reads),260.172214355
+HTMCP-03-06-02072-01A-01D,X coverage (incl. duplicate reads),330.375078404
+HTMCP-03-06-02072-10A-01D,X coverage (incl. duplicate reads),212.974015138
+HTMCP-03-06-02082-01A-01D,X coverage (incl. duplicate reads),291.329748154
+HTMCP-03-06-02082-10A-01D,X coverage (incl. duplicate reads),318.163202635
+HTMCP-03-06-02081-01A-01D,X coverage (incl. duplicate reads),391.425791868
+HTMCP-03-06-02081-10A-01D,X coverage (incl. duplicate reads),308.204851869
+HTMCP-03-06-02084-01A-01D,X coverage (incl. duplicate reads),233.339303173
+HTMCP-03-06-02084-10A-01D,X coverage (incl. duplicate reads),376.252128418
+HTMCP-03-06-02096-01A-01D,X coverage (incl. duplicate reads),337.099258058
+HTMCP-03-06-02096-10A-01D,X coverage (incl. duplicate reads),239.635611247
+HTMCP-03-06-02101-01C-01D,X coverage (incl. duplicate reads),318.5261048
+HTMCP-03-06-02101-10A-01D,X coverage (incl. duplicate reads),205.730905451
+HTMCP-03-06-02104-01A-01D,X coverage (incl. duplicate reads),399.747083287
+HTMCP-03-06-02104-10A-01D,X coverage (incl. duplicate reads),355.82271048
+HTMCP-03-06-02107-01A-01D,X coverage (incl. duplicate reads),197.666629306
+HTMCP-03-06-02111-01A-01D,X coverage (incl. duplicate reads),230.936194257
+HTMCP-03-06-02111-10A-01D,X coverage (incl. duplicate reads),287.960094434
+HTMCP-03-06-02112-01A-01D,X coverage (incl. duplicate reads),264.787300033
+HTMCP-03-06-02112-10A-01D,X coverage (incl. duplicate reads),320.774471447
+HTMCP-03-06-02118-01A-01D,X coverage (incl. duplicate reads),334.963227975
+HTMCP-03-06-02118-10A-01D,X coverage (incl. duplicate reads),221.815443422
+HTMCP-03-06-02121-01A-01D,X coverage (incl. duplicate reads),288.676700773
+HTMCP-03-06-02121-10A-01D,X coverage (incl. duplicate reads),451.989856134
+HTMCP-03-06-02123-01A-01D,X coverage (incl. duplicate reads),318.498682329
+HTMCP-03-06-02123-10A-01D,X coverage (incl. duplicate reads),303.798013951
+HTMCP-03-06-02129-01A-01D,X coverage (incl. duplicate reads),320.201636629
+HTMCP-03-06-02129-10A-01D,X coverage (incl. duplicate reads),229.594980487
+HTMCP-03-06-02137-01A-01D,X coverage (incl. duplicate reads),401.783541595
+HTMCP-03-06-02137-10A-01D,X coverage (incl. duplicate reads),242.902499781
+HTMCP-03-06-02138-01A-01D,X coverage (incl. duplicate reads),291.303234762
+HTMCP-03-06-02138-10A-01D,X coverage (incl. duplicate reads),306.616082621
+HTMCP-03-06-02146-01A-01D,X coverage (incl. duplicate reads),201.940011023
+HTMCP-03-06-02146-10A-01D,X coverage (incl. duplicate reads),320.150132085
+HTMCP-03-06-02158-01A-01D,X coverage (incl. duplicate reads),316.199230073
+HTMCP-03-06-02158-10A-01D,X coverage (incl. duplicate reads),209.96743966
+HTMCP-03-06-02173-01A-01D,X coverage (incl. duplicate reads),304.720218535
+HTMCP-03-06-02173-10A-01D,X coverage (incl. duplicate reads),312.394441196
+HTMCP-03-06-02177-01B-01D,X coverage (incl. duplicate reads),
+HTMCP-03-06-02177-10A-01D,X coverage (incl. duplicate reads),332.798880713
+HTMCP-03-06-02188-01A-01D,X coverage (incl. duplicate reads),323.162144381
+HTMCP-03-06-02188-10A-01D,X coverage (incl. duplicate reads),364.910827828
+HTMCP-03-06-02187-01A-01D,X coverage (incl. duplicate reads),226.744936446
+HTMCP-03-06-02187-10A-01D,X coverage (incl. duplicate reads),352.441889646
+HTMCP-03-06-02189-01A-01D,X coverage (incl. duplicate reads),293.263409801
+HTMCP-03-06-02189-10A-01D,X coverage (incl. duplicate reads),282.246142682
+HTMCP-03-06-02193-01A-01D,X coverage (incl. duplicate reads),260.911879121
+HTMCP-03-06-02193-10A-01D,X coverage (incl. duplicate reads),231.239616035
+HTMCP-03-06-02199-01A-01D,X coverage (incl. duplicate reads),245.682725493
+HTMCP-03-06-02206-01A-01D,X coverage (incl. duplicate reads),241.254929396
+HTMCP-03-06-02206-10A-01D,X coverage (incl. duplicate reads),213.969266171
+HTMCP-03-06-02211-01B-01D,X coverage (incl. duplicate reads),288.342802841
+HTMCP-03-06-02211-10A-01D,X coverage (incl. duplicate reads),249.13164257
+HTMCP-03-06-02218-01A-01D,X coverage (incl. duplicate reads),293.492590131
+HTMCP-03-06-02218-10A-01D,X coverage (incl. duplicate reads),315.230426149
+HTMCP-03-06-02220-01A-01D,X coverage (incl. duplicate reads),266.58969926
+HTMCP-03-06-02220-10A-01D,X coverage (incl. duplicate reads),294.722456025
+HTMCP-03-06-02246-01A-01D,X coverage (incl. duplicate reads),243.583177685
+HTMCP-03-06-02246-10A-01D,X coverage (incl. duplicate reads),334.948914243
+HTMCP-03-06-02321-01A-01D,X coverage (incl. duplicate reads),360.352110924
+HTMCP-03-06-02321-10A-01D,X coverage (incl. duplicate reads),213.69648071
+HTMCP-03-06-02327-01A-01D,X coverage (incl. duplicate reads),357.328479064
+HTMCP-03-06-02327-10A-01D,X coverage (incl. duplicate reads),323.692882337
+HTMCP-03-06-02334-01A-01D,X coverage (incl. duplicate reads),252.663373889
+HTMCP-03-06-02334-10A-01D,X coverage (incl. duplicate reads),226.281746461
+HTMCP-03-06-02337-01A-01D,X coverage (incl. duplicate reads),211.358549309
+HTMCP-03-06-02337-10A-01D,X coverage (incl. duplicate reads),315.495619647
+HTMCP-03-06-02338-01A-01D,X coverage (incl. duplicate reads),266.167423818
+HTMCP-03-06-02338-10A-01D,X coverage (incl. duplicate reads),274.245697641
+HTMCP-03-06-02339-01A-01D,X coverage (incl. duplicate reads),243.586619821
+HTMCP-03-06-02339-10A-01D,X coverage (incl. duplicate reads),282.724328333
+HTMCP-03-06-02342-01A-01D,X coverage (incl. duplicate reads),205.213205076
+HTMCP-03-06-02342-10A-01D,X coverage (incl. duplicate reads),256.146210398
+HTMCP-03-06-02343-01A-01D,X coverage (incl. duplicate reads),276.447124827
+HTMCP-03-06-02343-10A-01D,X coverage (incl. duplicate reads),329.308228278
+HTMCP-03-06-02345-01A-01D,X coverage (incl. duplicate reads),222.087397127
+HTMCP-03-06-02345-10A-01D,X coverage (incl. duplicate reads),335.139360686
+HTMCP-03-06-02347-01A-01D,X coverage (incl. duplicate reads),202.826677019
+HTMCP-03-06-02347-10A-01D,X coverage (incl. duplicate reads),320.491014236
+HTMCP-03-06-02352-01A-01D,X coverage (incl. duplicate reads),291.771497077
+HTMCP-03-06-02352-10A-01D,X coverage (incl. duplicate reads),283.151684908
+HTMCP-03-06-02356-01A-01D,X coverage (incl. duplicate reads),233.02161699
+HTMCP-03-06-02356-10A-01D,X coverage (incl. duplicate reads),288.446112967
+HTMCP-03-06-02357-01A-01D,X coverage (incl. duplicate reads),283.584691821
+HTMCP-03-06-02357-10A-01D,X coverage (incl. duplicate reads),280.274755528
+HTMCP-03-06-02360-01A-01D,X coverage (incl. duplicate reads),263.91843451
+HTMCP-03-06-02360-10A-01D,X coverage (incl. duplicate reads),236.785306346
+HTMCP-03-06-02361-01A-01D,X coverage (incl. duplicate reads),254.525884865
+HTMCP-03-06-02361-10A-01D,X coverage (incl. duplicate reads),284.437038941
+HTMCP-03-06-02362-01A-01D,X coverage (incl. duplicate reads),210.301835391
+HTMCP-03-06-02362-10A-01D,X coverage (incl. duplicate reads),318.609834983
+HTMCP-03-06-02363-01A-01D,X coverage (incl. duplicate reads),179.732967759
+HTMCP-03-06-02363-10A-01D,X coverage (incl. duplicate reads),325.436869725
+HTMCP-03-06-02365-01A-01D,X coverage (incl. duplicate reads),252.818739117
+HTMCP-03-06-02365-10A-01D,X coverage (incl. duplicate reads),358.273777481
+HTMCP-03-06-02366-01A-01D,X coverage (incl. duplicate reads),274.051787431
+HTMCP-03-06-02366-10A-01D,X coverage (incl. duplicate reads),335.219937935
+HTMCP-03-06-02364-01A-01D,X coverage (incl. duplicate reads),274.280270713
+HTMCP-03-06-02364-10A-01D,X coverage (incl. duplicate reads),249.932447851
+HTMCP-03-06-02370-01A-01D,X coverage (incl. duplicate reads),267.045888616
+HTMCP-03-06-02370-10A-01D,X coverage (incl. duplicate reads),310.34501711
+HTMCP-03-06-02376-01A-01D,X coverage (incl. duplicate reads),278.454029934
+HTMCP-03-06-02376-10A-01D,X coverage (incl. duplicate reads),241.296911888
+HTMCP-03-06-02379-01A-01D,X coverage (incl. duplicate reads),266.717180417
+HTMCP-03-06-02379-10A-01D,X coverage (incl. duplicate reads),249.968922071
+HTMCP-03-06-02380-01A-01D,X coverage (incl. duplicate reads),265.753893518
+HTMCP-03-06-02380-10A-01D,X coverage (incl. duplicate reads),271.561734783
+HTMCP-03-06-02383-01A-01D,X coverage (incl. duplicate reads),263.705022178
+HTMCP-03-06-02383-10A-01D,X coverage (incl. duplicate reads),227.666413896
+HTMCP-03-06-02384-01A-01D,X coverage (incl. duplicate reads),288.177226867
+HTMCP-03-06-02384-10A-01D,X coverage (incl. duplicate reads),225.368357977
+HTMCP-03-06-02385-01A-01D,X coverage (incl. duplicate reads),276.485469664
+HTMCP-03-06-02385-10A-01D,X coverage (incl. duplicate reads),256.84135131
+HTMCP-03-06-02386-01C-01D,X coverage (incl. duplicate reads),226.226887397
+HTMCP-03-06-02386-10A-01D,X coverage (incl. duplicate reads),244.910096319
+HTMCP-03-06-02387-01A-01D,X coverage (incl. duplicate reads),272.533274943
+HTMCP-03-06-02387-10A-01D,X coverage (incl. duplicate reads),280.362614553
+HTMCP-03-06-02389-01A-01D,X coverage (incl. duplicate reads),264.433239677
+HTMCP-03-06-02389-10A-01D,X coverage (incl. duplicate reads),271.523687204
+HTMCP-03-06-02394-01A-01D,X coverage (incl. duplicate reads),229.037561912
+HTMCP-03-06-02394-10A-01D,X coverage (incl. duplicate reads),244.624678638
+HTMCP-03-06-02397-01A-01D,X coverage (incl. duplicate reads),301.102721576
+HTMCP-03-06-02397-10A-01D,X coverage (incl. duplicate reads),272.520579173
+HTMCP-03-06-02399-01A-01D,X coverage (incl. duplicate reads),223.500598395
+HTMCP-03-06-02399-10A-01D,X coverage (incl. duplicate reads),279.392579381
+HTMCP-03-06-02400-01A-01D,X coverage (incl. duplicate reads),256.655397649
+HTMCP-03-06-02400-10A-01D,X coverage (incl. duplicate reads),261.631046264
+HTMCP-03-06-02402-01A-01D,X coverage (incl. duplicate reads),215.452449663
+HTMCP-03-06-02402-10A-01D,X coverage (incl. duplicate reads),258.600535452
+HTMCP-03-06-02404-01A-01D,X coverage (incl. duplicate reads),276.821781959
+HTMCP-03-06-02404-10A-01D,X coverage (incl. duplicate reads),256.891434654
+HTMCP-03-06-02406-01A-01D,X coverage (incl. duplicate reads),220.621108161
+HTMCP-03-06-02406-10A-01D,X coverage (incl. duplicate reads),286.660556601
+HTMCP-03-06-02407-01A-01D,X coverage (incl. duplicate reads),251.875042552
+HTMCP-03-06-02407-10A-01D,X coverage (incl. duplicate reads),178.736687412
+HTMCP-03-06-02408-01A-01D,X coverage (incl. duplicate reads),281.612919295
+HTMCP-03-06-02408-10A-01D,X coverage (incl. duplicate reads),256.104902579
+HTMCP-03-06-02409-01A-01D,X coverage (incl. duplicate reads),253.107914193
+HTMCP-03-06-02409-10A-01D,X coverage (incl. duplicate reads),314.641790066
+HTMCP-03-06-02410-01A-01D,X coverage (incl. duplicate reads),227.338559979
+HTMCP-03-06-02410-10A-01D,X coverage (incl. duplicate reads),247.412143461
+HTMCP-03-06-02412-01A-01D,X coverage (incl. duplicate reads),247.671658575
+HTMCP-03-06-02412-10A-01D,X coverage (incl. duplicate reads),269.253761596
+HTMCP-03-06-02416-01A-01D,X coverage (incl. duplicate reads),260.475997836
+HTMCP-03-06-02416-10A-01D,X coverage (incl. duplicate reads),237.513754571
+HTMCP-03-06-02367-01A-01D,X coverage (incl. duplicate reads),298.874527846
+HTMCP-03-06-02367-10A-01D,X coverage (incl. duplicate reads),264.178533151
+HTMCP-03-06-02368-01A-01D,X coverage (incl. duplicate reads),206.735048814
+HTMCP-03-06-02368-10A-01D,X coverage (incl. duplicate reads),293.613858408
+HTMCP-03-06-02369-01A-01D,X coverage (incl. duplicate reads),267.209539972
+HTMCP-03-06-02369-10A-01D,X coverage (incl. duplicate reads),194.978503743
+HTMCP-03-06-02373-01A-01D,X coverage (incl. duplicate reads),251.813927595
+HTMCP-03-06-02373-10A-01D,X coverage (incl. duplicate reads),270.985567872
+HTMCP-03-06-02421-01A-01D,X coverage (incl. duplicate reads),295.631646349
+HTMCP-03-06-02421-10A-01D,X coverage (incl. duplicate reads),304.08018253
+HTMCP-03-06-02423-01A-01D,X coverage (incl. duplicate reads),219.728239577
+HTMCP-03-06-02423-10A-01D,X coverage (incl. duplicate reads),281.763057795
+HTMCP-03-06-02425-01A-01D,X coverage (incl. duplicate reads),259.268786799
+HTMCP-03-06-02425-10A-01D,X coverage (incl. duplicate reads),272.019612711
+HTMCP-03-06-02426-01A-01D,X coverage (incl. duplicate reads),295.710081183
+HTMCP-03-06-02426-10A-01D,X coverage (incl. duplicate reads),246.272642997
+HTMCP-03-06-02439-01A-01D,X coverage (incl. duplicate reads),286.309334119
+HTMCP-03-06-02439-10A-01D,X coverage (incl. duplicate reads),271.827740096
+HTMCP-03-06-02446-01A-01D,X coverage (incl. duplicate reads),136.976751423
+HTMCP-03-06-02446-10A-01D,X coverage (incl. duplicate reads),295.437589947
+HTMCP-03-06-02025-01A-01D,% of reads on target (from total reads),81.6019623359379
+HTMCP-03-06-02025-10A-01D,% of reads on target (from total reads),82.8665247606248
+HTMCP-03-06-02044-01A-01D,% of reads on target (from total reads),82.5434991238169
+HTMCP-03-06-02044-10A-01D,% of reads on target (from total reads),78.9488328419954
+HTMCP-03-06-02060-01A-01D,% of reads on target (from total reads),63.9500898969417
+HTMCP-03-06-02060-10A-01D,% of reads on target (from total reads),83.0616487162078
+HTMCP-03-06-02061-01A-01D,% of reads on target (from total reads),65.8962576619583
+HTMCP-03-06-02061-10A-01D,% of reads on target (from total reads),81.2677578297346
+HTMCP-03-06-02062-01A-01D,% of reads on target (from total reads),81.9133166161637
+HTMCP-03-06-02062-10A-01D,% of reads on target (from total reads),77.16770111245
+HTMCP-03-06-02066-01A-01D,% of reads on target (from total reads),80.3975187649715
+HTMCP-03-06-02066-10A-01D,% of reads on target (from total reads),66.9176803303811
+HTMCP-03-06-02067-01A-01D,% of reads on target (from total reads),80.4567924461949
+HTMCP-03-06-02067-10A-01D,% of reads on target (from total reads),65.9212867029288
+HTMCP-03-06-02072-01A-01D,% of reads on target (from total reads),82.4034601357845
+HTMCP-03-06-02072-10A-01D,% of reads on target (from total reads),81.1971004525912
+HTMCP-03-06-02082-01A-01D,% of reads on target (from total reads),79.7630490069113
+HTMCP-03-06-02082-10A-01D,% of reads on target (from total reads),81.373837393564
+HTMCP-03-06-02081-01A-01D,% of reads on target (from total reads),78.9877228708887
+HTMCP-03-06-02081-10A-01D,% of reads on target (from total reads),79.474262797218
+HTMCP-03-06-02084-01A-01D,% of reads on target (from total reads),66.9753543029263
+HTMCP-03-06-02084-10A-01D,% of reads on target (from total reads),83.4102326580189
+HTMCP-03-06-02096-01A-01D,% of reads on target (from total reads),82.0679776907431
+HTMCP-03-06-02096-10A-01D,% of reads on target (from total reads),79.6373526079848
+HTMCP-03-06-02101-01C-01D,% of reads on target (from total reads),78.3195100650784
+HTMCP-03-06-02101-10A-01D,% of reads on target (from total reads),82.0082336052668
+HTMCP-03-06-02104-01A-01D,% of reads on target (from total reads),78.5753721653917
+HTMCP-03-06-02104-10A-01D,% of reads on target (from total reads),82.5065381143766
+HTMCP-03-06-02107-01A-01D,% of reads on target (from total reads),66.2831453556472
+HTMCP-03-06-02111-01A-01D,% of reads on target (from total reads),79.7478116465772
+HTMCP-03-06-02111-10A-01D,% of reads on target (from total reads),79.1721129830415
+HTMCP-03-06-02112-01A-01D,% of reads on target (from total reads),83.0126263124192
+HTMCP-03-06-02112-10A-01D,% of reads on target (from total reads),82.4658969988852
+HTMCP-03-06-02118-01A-01D,% of reads on target (from total reads),78.599297734789
+HTMCP-03-06-02118-10A-01D,% of reads on target (from total reads),82.7456903663791
+HTMCP-03-06-02121-01A-01D,% of reads on target (from total reads),83.0922216771717
+HTMCP-03-06-02121-10A-01D,% of reads on target (from total reads),80.0619295105184
+HTMCP-03-06-02123-01A-01D,% of reads on target (from total reads),83.869324893953
+HTMCP-03-06-02123-10A-01D,% of reads on target (from total reads),65.5495371706967
+HTMCP-03-06-02129-01A-01D,% of reads on target (from total reads),78.1195635807708
+HTMCP-03-06-02129-10A-01D,% of reads on target (from total reads),83.5294866964786
+HTMCP-03-06-02137-01A-01D,% of reads on target (from total reads),80.8312235793881
+HTMCP-03-06-02137-10A-01D,% of reads on target (from total reads),82.5360099603333
+HTMCP-03-06-02138-01A-01D,% of reads on target (from total reads),67.247385873136
+HTMCP-03-06-02138-10A-01D,% of reads on target (from total reads),81.7897591452119
+HTMCP-03-06-02146-01A-01D,% of reads on target (from total reads),82.9774328377578
+HTMCP-03-06-02146-10A-01D,% of reads on target (from total reads),82.8559588902816
+HTMCP-03-06-02158-01A-01D,% of reads on target (from total reads),82.6166922911817
+HTMCP-03-06-02158-10A-01D,% of reads on target (from total reads),78.964855636692
+HTMCP-03-06-02173-01A-01D,% of reads on target (from total reads),81.9991218741905
+HTMCP-03-06-02173-10A-01D,% of reads on target (from total reads),79.8258997725124
+HTMCP-03-06-02177-01B-01D,% of reads on target (from total reads),
+HTMCP-03-06-02177-10A-01D,% of reads on target (from total reads),81.6362426871522
+HTMCP-03-06-02188-01A-01D,% of reads on target (from total reads),79.0638183339964
+HTMCP-03-06-02188-10A-01D,% of reads on target (from total reads),83.3933670057441
+HTMCP-03-06-02187-01A-01D,% of reads on target (from total reads),81.8530871942933
+HTMCP-03-06-02187-10A-01D,% of reads on target (from total reads),82.1488779382919
+HTMCP-03-06-02189-01A-01D,% of reads on target (from total reads),66.8919012829407
+HTMCP-03-06-02189-10A-01D,% of reads on target (from total reads),67.661336856168
+HTMCP-03-06-02193-01A-01D,% of reads on target (from total reads),65.7693094067709
+HTMCP-03-06-02193-10A-01D,% of reads on target (from total reads),62.5188981182664
+HTMCP-03-06-02199-01A-01D,% of reads on target (from total reads),81.5997867637589
+HTMCP-03-06-02206-01A-01D,% of reads on target (from total reads),82.0618931328004
+HTMCP-03-06-02206-10A-01D,% of reads on target (from total reads),81.9181247568011
+HTMCP-03-06-02211-01B-01D,% of reads on target (from total reads),65.6791295933371
+HTMCP-03-06-02211-10A-01D,% of reads on target (from total reads),81.5025299087942
+HTMCP-03-06-02218-01A-01D,% of reads on target (from total reads),82.4012687843858
+HTMCP-03-06-02218-10A-01D,% of reads on target (from total reads),82.5243334145141
+HTMCP-03-06-02220-01A-01D,% of reads on target (from total reads),65.8524814607113
+HTMCP-03-06-02220-10A-01D,% of reads on target (from total reads),82.2190761833654
+HTMCP-03-06-02246-01A-01D,% of reads on target (from total reads),79.8518565932227
+HTMCP-03-06-02246-10A-01D,% of reads on target (from total reads),79.9241748567291
+HTMCP-03-06-02321-01A-01D,% of reads on target (from total reads),82.9850721251155
+HTMCP-03-06-02321-10A-01D,% of reads on target (from total reads),79.3390380671188
+HTMCP-03-06-02327-01A-01D,% of reads on target (from total reads),82.4191125243451
+HTMCP-03-06-02327-10A-01D,% of reads on target (from total reads),81.1117550614149
+HTMCP-03-06-02334-01A-01D,% of reads on target (from total reads),83.3082965279053
+HTMCP-03-06-02334-10A-01D,% of reads on target (from total reads),82.0234484884603
+HTMCP-03-06-02337-01A-01D,% of reads on target (from total reads),80.2296572720144
+HTMCP-03-06-02337-10A-01D,% of reads on target (from total reads),65.5655640418703
+HTMCP-03-06-02338-01A-01D,% of reads on target (from total reads),69.6276202446167
+HTMCP-03-06-02338-10A-01D,% of reads on target (from total reads),65.5016225552468
+HTMCP-03-06-02339-01A-01D,% of reads on target (from total reads),68.7283034093075
+HTMCP-03-06-02339-10A-01D,% of reads on target (from total reads),82.9004657577697
+HTMCP-03-06-02342-01A-01D,% of reads on target (from total reads),78.1330541089687
+HTMCP-03-06-02342-10A-01D,% of reads on target (from total reads),78.9059622539275
+HTMCP-03-06-02343-01A-01D,% of reads on target (from total reads),84.6650334589553
+HTMCP-03-06-02343-10A-01D,% of reads on target (from total reads),78.6416172788394
+HTMCP-03-06-02345-01A-01D,% of reads on target (from total reads),83.7424892059156
+HTMCP-03-06-02345-10A-01D,% of reads on target (from total reads),82.3000884523464
+HTMCP-03-06-02347-01A-01D,% of reads on target (from total reads),82.4199153223064
+HTMCP-03-06-02347-10A-01D,% of reads on target (from total reads),81.8183307863998
+HTMCP-03-06-02352-01A-01D,% of reads on target (from total reads),82.0313967578836
+HTMCP-03-06-02352-10A-01D,% of reads on target (from total reads),81.9585674442605
+HTMCP-03-06-02356-01A-01D,% of reads on target (from total reads),80.6826383369971
+HTMCP-03-06-02356-10A-01D,% of reads on target (from total reads),64.9374908797352
+HTMCP-03-06-02357-01A-01D,% of reads on target (from total reads),69.6928231782612
+HTMCP-03-06-02357-10A-01D,% of reads on target (from total reads),65.6982286394867
+HTMCP-03-06-02360-01A-01D,% of reads on target (from total reads),68.3973834940487
+HTMCP-03-06-02360-10A-01D,% of reads on target (from total reads),81.9127245827756
+HTMCP-03-06-02361-01A-01D,% of reads on target (from total reads),83.9428251372757
+HTMCP-03-06-02361-10A-01D,% of reads on target (from total reads),81.4789025045377
+HTMCP-03-06-02362-01A-01D,% of reads on target (from total reads),80.3033593707816
+HTMCP-03-06-02362-10A-01D,% of reads on target (from total reads),82.1673108730777
+HTMCP-03-06-02363-01A-01D,% of reads on target (from total reads),83.094103329029
+HTMCP-03-06-02363-10A-01D,% of reads on target (from total reads),81.1642676240041
+HTMCP-03-06-02365-01A-01D,% of reads on target (from total reads),83.0661625973245
+HTMCP-03-06-02365-10A-01D,% of reads on target (from total reads),82.4451315688038
+HTMCP-03-06-02366-01A-01D,% of reads on target (from total reads),80.9363418573299
+HTMCP-03-06-02366-10A-01D,% of reads on target (from total reads),81.3079530377379
+HTMCP-03-06-02364-01A-01D,% of reads on target (from total reads),69.5164185864081
+HTMCP-03-06-02364-10A-01D,% of reads on target (from total reads),81.5541693825218
+HTMCP-03-06-02370-01A-01D,% of reads on target (from total reads),84.9553612262688
+HTMCP-03-06-02370-10A-01D,% of reads on target (from total reads),68.4803693859372
+HTMCP-03-06-02376-01A-01D,% of reads on target (from total reads),78.2730672610616
+HTMCP-03-06-02376-10A-01D,% of reads on target (from total reads),68.153916086605
+HTMCP-03-06-02379-01A-01D,% of reads on target (from total reads),83.1474827964284
+HTMCP-03-06-02379-10A-01D,% of reads on target (from total reads),81.2749554366408
+HTMCP-03-06-02380-01A-01D,% of reads on target (from total reads),83.1185687225391
+HTMCP-03-06-02380-10A-01D,% of reads on target (from total reads),84.0909123726349
+HTMCP-03-06-02383-01A-01D,% of reads on target (from total reads),83.0947284978552
+HTMCP-03-06-02383-10A-01D,% of reads on target (from total reads),81.1286051255821
+HTMCP-03-06-02384-01A-01D,% of reads on target (from total reads),83.1065179798299
+HTMCP-03-06-02384-10A-01D,% of reads on target (from total reads),82.7932673384937
+HTMCP-03-06-02385-01A-01D,% of reads on target (from total reads),65.4709471485182
+HTMCP-03-06-02385-10A-01D,% of reads on target (from total reads),83.776704127964
+HTMCP-03-06-02386-01C-01D,% of reads on target (from total reads),68.4051087800615
+HTMCP-03-06-02386-10A-01D,% of reads on target (from total reads),79.5167564996473
+HTMCP-03-06-02387-01A-01D,% of reads on target (from total reads),83.9256625311541
+HTMCP-03-06-02387-10A-01D,% of reads on target (from total reads),69.2927587304948
+HTMCP-03-06-02389-01A-01D,% of reads on target (from total reads),82.2117039395186
+HTMCP-03-06-02389-10A-01D,% of reads on target (from total reads),68.7716495464073
+HTMCP-03-06-02394-01A-01D,% of reads on target (from total reads),82.7102430154153
+HTMCP-03-06-02394-10A-01D,% of reads on target (from total reads),82.3272364562392
+HTMCP-03-06-02397-01A-01D,% of reads on target (from total reads),82.3271025002124
+HTMCP-03-06-02397-10A-01D,% of reads on target (from total reads),83.1056129353854
+HTMCP-03-06-02399-01A-01D,% of reads on target (from total reads),83.4695974377975
+HTMCP-03-06-02399-10A-01D,% of reads on target (from total reads),84.6721327261825
+HTMCP-03-06-02400-01A-01D,% of reads on target (from total reads),82.9263705441215
+HTMCP-03-06-02400-10A-01D,% of reads on target (from total reads),83.7202069490618
+HTMCP-03-06-02402-01A-01D,% of reads on target (from total reads),81.6016039278076
+HTMCP-03-06-02402-10A-01D,% of reads on target (from total reads),81.7870032859487
+HTMCP-03-06-02404-01A-01D,% of reads on target (from total reads),68.552121864891
+HTMCP-03-06-02404-10A-01D,% of reads on target (from total reads),83.5261734894444
+HTMCP-03-06-02406-01A-01D,% of reads on target (from total reads),68.1438877431608
+HTMCP-03-06-02406-10A-01D,% of reads on target (from total reads),68.8373969861108
+HTMCP-03-06-02407-01A-01D,% of reads on target (from total reads),83.2954677234845
+HTMCP-03-06-02407-10A-01D,% of reads on target (from total reads),67.2973054257527
+HTMCP-03-06-02408-01A-01D,% of reads on target (from total reads),83.1168158036889
+HTMCP-03-06-02408-10A-01D,% of reads on target (from total reads),80.2344170060032
+HTMCP-03-06-02409-01A-01D,% of reads on target (from total reads),81.6171222016869
+HTMCP-03-06-02409-10A-01D,% of reads on target (from total reads),84.1664611645772
+HTMCP-03-06-02410-01A-01D,% of reads on target (from total reads),80.4718327114542
+HTMCP-03-06-02410-10A-01D,% of reads on target (from total reads),81.419421931698
+HTMCP-03-06-02412-01A-01D,% of reads on target (from total reads),81.9307578733528
+HTMCP-03-06-02412-10A-01D,% of reads on target (from total reads),84.5893879970204
+HTMCP-03-06-02416-01A-01D,% of reads on target (from total reads),83.9022732283769
+HTMCP-03-06-02416-10A-01D,% of reads on target (from total reads),80.5539549882374
+HTMCP-03-06-02367-01A-01D,% of reads on target (from total reads),69.3598872309371
+HTMCP-03-06-02367-10A-01D,% of reads on target (from total reads),83.6532463761253
+HTMCP-03-06-02368-01A-01D,% of reads on target (from total reads),84.0868590979779
+HTMCP-03-06-02368-10A-01D,% of reads on target (from total reads),70.200621810674
+HTMCP-03-06-02369-01A-01D,% of reads on target (from total reads),82.2858009766023
+HTMCP-03-06-02369-10A-01D,% of reads on target (from total reads),67.181801661197
+HTMCP-03-06-02373-01A-01D,% of reads on target (from total reads),82.6289187038263
+HTMCP-03-06-02373-10A-01D,% of reads on target (from total reads),83.1945680232018
+HTMCP-03-06-02421-01A-01D,% of reads on target (from total reads),84.4611882921169
+HTMCP-03-06-02421-10A-01D,% of reads on target (from total reads),84.4083742000585
+HTMCP-03-06-02423-01A-01D,% of reads on target (from total reads),80.4303942753501
+HTMCP-03-06-02423-10A-01D,% of reads on target (from total reads),83.7971383321242
+HTMCP-03-06-02425-01A-01D,% of reads on target (from total reads),79.3402965865358
+HTMCP-03-06-02425-10A-01D,% of reads on target (from total reads),79.6872097560388
+HTMCP-03-06-02426-01A-01D,% of reads on target (from total reads),69.8232825023782
+HTMCP-03-06-02426-10A-01D,% of reads on target (from total reads),80.0657316821372
+HTMCP-03-06-02439-01A-01D,% of reads on target (from total reads),68.5234785513727
+HTMCP-03-06-02439-10A-01D,% of reads on target (from total reads),82.1987806952656
+HTMCP-03-06-02446-01A-01D,% of reads on target (from total reads),84.2511497822152
+HTMCP-03-06-02446-10A-01D,% of reads on target (from total reads),69.8967437940067
+HTMCP-03-06-02025-01A-01D,% of reads off target (from total reads),18.398037664062
+HTMCP-03-06-02025-10A-01D,% of reads off target (from total reads),17.1334752393751
+HTMCP-03-06-02044-01A-01D,% of reads off target (from total reads),17.456500876183
+HTMCP-03-06-02044-10A-01D,% of reads off target (from total reads),21.0511671580045
+HTMCP-03-06-02060-01A-01D,% of reads off target (from total reads),36.0499101030582
+HTMCP-03-06-02060-10A-01D,% of reads off target (from total reads),16.9383512837921
+HTMCP-03-06-02061-01A-01D,% of reads off target (from total reads),34.1037423380416
+HTMCP-03-06-02061-10A-01D,% of reads off target (from total reads),18.7322421702653
+HTMCP-03-06-02062-01A-01D,% of reads off target (from total reads),18.0866833838362
+HTMCP-03-06-02062-10A-01D,% of reads off target (from total reads),22.8322988875499
+HTMCP-03-06-02066-01A-01D,% of reads off target (from total reads),19.6024812350284
+HTMCP-03-06-02066-10A-01D,% of reads off target (from total reads),33.0823196696188
+HTMCP-03-06-02067-01A-01D,% of reads off target (from total reads),19.543207553805
+HTMCP-03-06-02067-10A-01D,% of reads off target (from total reads),34.0787132970711
+HTMCP-03-06-02072-01A-01D,% of reads off target (from total reads),17.5965398642155
+HTMCP-03-06-02072-10A-01D,% of reads off target (from total reads),18.8028995474087
+HTMCP-03-06-02082-01A-01D,% of reads off target (from total reads),20.2369509930886
+HTMCP-03-06-02082-10A-01D,% of reads off target (from total reads),18.6261626064359
+HTMCP-03-06-02081-01A-01D,% of reads off target (from total reads),21.0122771291112
+HTMCP-03-06-02081-10A-01D,% of reads off target (from total reads),20.5257372027819
+HTMCP-03-06-02084-01A-01D,% of reads off target (from total reads),33.0246456970736
+HTMCP-03-06-02084-10A-01D,% of reads off target (from total reads),16.589767341981
+HTMCP-03-06-02096-01A-01D,% of reads off target (from total reads),17.9320223092568
+HTMCP-03-06-02096-10A-01D,% of reads off target (from total reads),20.3626473920151
+HTMCP-03-06-02101-01C-01D,% of reads off target (from total reads),21.6804899349215
+HTMCP-03-06-02101-10A-01D,% of reads off target (from total reads),17.9917663947331
+HTMCP-03-06-02104-01A-01D,% of reads off target (from total reads),21.4246278346082
+HTMCP-03-06-02104-10A-01D,% of reads off target (from total reads),17.4934618856233
+HTMCP-03-06-02107-01A-01D,% of reads off target (from total reads),33.7168546443527
+HTMCP-03-06-02111-01A-01D,% of reads off target (from total reads),20.2521883534228
+HTMCP-03-06-02111-10A-01D,% of reads off target (from total reads),20.8278870169584
+HTMCP-03-06-02112-01A-01D,% of reads off target (from total reads),16.9873736875807
+HTMCP-03-06-02112-10A-01D,% of reads off target (from total reads),17.5341030011147
+HTMCP-03-06-02118-01A-01D,% of reads off target (from total reads),21.4007022652109
+HTMCP-03-06-02118-10A-01D,% of reads off target (from total reads),17.2543096336208
+HTMCP-03-06-02121-01A-01D,% of reads off target (from total reads),16.9077783228282
+HTMCP-03-06-02121-10A-01D,% of reads off target (from total reads),19.9380704894815
+HTMCP-03-06-02123-01A-01D,% of reads off target (from total reads),16.1306751060469
+HTMCP-03-06-02123-10A-01D,% of reads off target (from total reads),34.4504628293033
+HTMCP-03-06-02129-01A-01D,% of reads off target (from total reads),21.8804364192291
+HTMCP-03-06-02129-10A-01D,% of reads off target (from total reads),16.4705133035213
+HTMCP-03-06-02137-01A-01D,% of reads off target (from total reads),19.1687764206118
+HTMCP-03-06-02137-10A-01D,% of reads off target (from total reads),17.4639900396666
+HTMCP-03-06-02138-01A-01D,% of reads off target (from total reads),32.7526141268639
+HTMCP-03-06-02138-10A-01D,% of reads off target (from total reads),18.210240854788
+HTMCP-03-06-02146-01A-01D,% of reads off target (from total reads),17.0225671622421
+HTMCP-03-06-02146-10A-01D,% of reads off target (from total reads),17.1440411097183
+HTMCP-03-06-02158-01A-01D,% of reads off target (from total reads),17.3833077088182
+HTMCP-03-06-02158-10A-01D,% of reads off target (from total reads),21.0351443633079
+HTMCP-03-06-02173-01A-01D,% of reads off target (from total reads),18.0008781258094
+HTMCP-03-06-02173-10A-01D,% of reads off target (from total reads),20.1741002274875
+HTMCP-03-06-02177-01B-01D,% of reads off target (from total reads),
+HTMCP-03-06-02177-10A-01D,% of reads off target (from total reads),18.3637573128477
+HTMCP-03-06-02188-01A-01D,% of reads off target (from total reads),20.9361816660035
+HTMCP-03-06-02188-10A-01D,% of reads off target (from total reads),16.6066329942558
+HTMCP-03-06-02187-01A-01D,% of reads off target (from total reads),18.1469128057066
+HTMCP-03-06-02187-10A-01D,% of reads off target (from total reads),17.851122061708
+HTMCP-03-06-02189-01A-01D,% of reads off target (from total reads),33.1080987170592
+HTMCP-03-06-02189-10A-01D,% of reads off target (from total reads),32.3386631438319
+HTMCP-03-06-02193-01A-01D,% of reads off target (from total reads),34.230690593229
+HTMCP-03-06-02193-10A-01D,% of reads off target (from total reads),37.4811018817335
+HTMCP-03-06-02199-01A-01D,% of reads off target (from total reads),18.400213236241
+HTMCP-03-06-02206-01A-01D,% of reads off target (from total reads),17.9381068671995
+HTMCP-03-06-02206-10A-01D,% of reads off target (from total reads),18.0818752431988
+HTMCP-03-06-02211-01B-01D,% of reads off target (from total reads),34.3208704066628
+HTMCP-03-06-02211-10A-01D,% of reads off target (from total reads),18.4974700912057
+HTMCP-03-06-02218-01A-01D,% of reads off target (from total reads),17.5987312156141
+HTMCP-03-06-02218-10A-01D,% of reads off target (from total reads),17.4756665854858
+HTMCP-03-06-02220-01A-01D,% of reads off target (from total reads),34.1475185392886
+HTMCP-03-06-02220-10A-01D,% of reads off target (from total reads),17.7809238166345
+HTMCP-03-06-02246-01A-01D,% of reads off target (from total reads),20.1481434067772
+HTMCP-03-06-02246-10A-01D,% of reads off target (from total reads),20.0758251432708
+HTMCP-03-06-02321-01A-01D,% of reads off target (from total reads),17.0149278748844
+HTMCP-03-06-02321-10A-01D,% of reads off target (from total reads),20.6609619328812
+HTMCP-03-06-02327-01A-01D,% of reads off target (from total reads),17.5808874756548
+HTMCP-03-06-02327-10A-01D,% of reads off target (from total reads),18.888244938585
+HTMCP-03-06-02334-01A-01D,% of reads off target (from total reads),16.6917034720946
+HTMCP-03-06-02334-10A-01D,% of reads off target (from total reads),17.9765515115396
+HTMCP-03-06-02337-01A-01D,% of reads off target (from total reads),19.7703427279855
+HTMCP-03-06-02337-10A-01D,% of reads off target (from total reads),34.4344359581296
+HTMCP-03-06-02338-01A-01D,% of reads off target (from total reads),30.3723797553833
+HTMCP-03-06-02338-10A-01D,% of reads off target (from total reads),34.4983774447531
+HTMCP-03-06-02339-01A-01D,% of reads off target (from total reads),31.2716965906924
+HTMCP-03-06-02339-10A-01D,% of reads off target (from total reads),17.0995342422302
+HTMCP-03-06-02342-01A-01D,% of reads off target (from total reads),21.8669458910312
+HTMCP-03-06-02342-10A-01D,% of reads off target (from total reads),21.0940377460724
+HTMCP-03-06-02343-01A-01D,% of reads off target (from total reads),15.3349665410446
+HTMCP-03-06-02343-10A-01D,% of reads off target (from total reads),21.3583827211605
+HTMCP-03-06-02345-01A-01D,% of reads off target (from total reads),16.2575107940843
+HTMCP-03-06-02345-10A-01D,% of reads off target (from total reads),17.6999115476535
+HTMCP-03-06-02347-01A-01D,% of reads off target (from total reads),17.5800846776935
+HTMCP-03-06-02347-10A-01D,% of reads off target (from total reads),18.1816692136001
+HTMCP-03-06-02352-01A-01D,% of reads off target (from total reads),17.9686032421163
+HTMCP-03-06-02352-10A-01D,% of reads off target (from total reads),18.0414325557394
+HTMCP-03-06-02356-01A-01D,% of reads off target (from total reads),19.3173616630028
+HTMCP-03-06-02356-10A-01D,% of reads off target (from total reads),35.0625091202647
+HTMCP-03-06-02357-01A-01D,% of reads off target (from total reads),30.3071768217387
+HTMCP-03-06-02357-10A-01D,% of reads off target (from total reads),34.3017713605132
+HTMCP-03-06-02360-01A-01D,% of reads off target (from total reads),31.6026165059512
+HTMCP-03-06-02360-10A-01D,% of reads off target (from total reads),18.0872754172244
+HTMCP-03-06-02361-01A-01D,% of reads off target (from total reads),16.0571748627242
+HTMCP-03-06-02361-10A-01D,% of reads off target (from total reads),18.5210974954622
+HTMCP-03-06-02362-01A-01D,% of reads off target (from total reads),19.6966406292183
+HTMCP-03-06-02362-10A-01D,% of reads off target (from total reads),17.8326891269223
+HTMCP-03-06-02363-01A-01D,% of reads off target (from total reads),16.9058966709709
+HTMCP-03-06-02363-10A-01D,% of reads off target (from total reads),18.8357323759958
+HTMCP-03-06-02365-01A-01D,% of reads off target (from total reads),16.9338374026755
+HTMCP-03-06-02365-10A-01D,% of reads off target (from total reads),17.5548684311961
+HTMCP-03-06-02366-01A-01D,% of reads off target (from total reads),19.06365814267
+HTMCP-03-06-02366-10A-01D,% of reads off target (from total reads),18.692046962262
+HTMCP-03-06-02364-01A-01D,% of reads off target (from total reads),30.4835814135918
+HTMCP-03-06-02364-10A-01D,% of reads off target (from total reads),18.4458306174781
+HTMCP-03-06-02370-01A-01D,% of reads off target (from total reads),15.0446387737311
+HTMCP-03-06-02370-10A-01D,% of reads off target (from total reads),31.5196306140627
+HTMCP-03-06-02376-01A-01D,% of reads off target (from total reads),21.7269327389383
+HTMCP-03-06-02376-10A-01D,% of reads off target (from total reads),31.8460839133949
+HTMCP-03-06-02379-01A-01D,% of reads off target (from total reads),16.8525172035715
+HTMCP-03-06-02379-10A-01D,% of reads off target (from total reads),18.7250445633591
+HTMCP-03-06-02380-01A-01D,% of reads off target (from total reads),16.8814312774608
+HTMCP-03-06-02380-10A-01D,% of reads off target (from total reads),15.909087627365
+HTMCP-03-06-02383-01A-01D,% of reads off target (from total reads),16.9052715021447
+HTMCP-03-06-02383-10A-01D,% of reads off target (from total reads),18.8713948744178
+HTMCP-03-06-02384-01A-01D,% of reads off target (from total reads),16.8934820201701
+HTMCP-03-06-02384-10A-01D,% of reads off target (from total reads),17.2067326615062
+HTMCP-03-06-02385-01A-01D,% of reads off target (from total reads),34.5290528514817
+HTMCP-03-06-02385-10A-01D,% of reads off target (from total reads),16.2232958720359
+HTMCP-03-06-02386-01C-01D,% of reads off target (from total reads),31.5948912199385
+HTMCP-03-06-02386-10A-01D,% of reads off target (from total reads),20.4832435003526
+HTMCP-03-06-02387-01A-01D,% of reads off target (from total reads),16.0743374688458
+HTMCP-03-06-02387-10A-01D,% of reads off target (from total reads),30.7072412695051
+HTMCP-03-06-02389-01A-01D,% of reads off target (from total reads),17.7882960604813
+HTMCP-03-06-02389-10A-01D,% of reads off target (from total reads),31.2283504535926
+HTMCP-03-06-02394-01A-01D,% of reads off target (from total reads),17.2897569845846
+HTMCP-03-06-02394-10A-01D,% of reads off target (from total reads),17.6727635437607
+HTMCP-03-06-02397-01A-01D,% of reads off target (from total reads),17.6728974997875
+HTMCP-03-06-02397-10A-01D,% of reads off target (from total reads),16.8943870646145
+HTMCP-03-06-02399-01A-01D,% of reads off target (from total reads),16.5304025622024
+HTMCP-03-06-02399-10A-01D,% of reads off target (from total reads),15.3278672738174
+HTMCP-03-06-02400-01A-01D,% of reads off target (from total reads),17.0736294558784
+HTMCP-03-06-02400-10A-01D,% of reads off target (from total reads),16.2797930509381
+HTMCP-03-06-02402-01A-01D,% of reads off target (from total reads),18.3983960721923
+HTMCP-03-06-02402-10A-01D,% of reads off target (from total reads),18.2129967140513
+HTMCP-03-06-02404-01A-01D,% of reads off target (from total reads),31.4478781351089
+HTMCP-03-06-02404-10A-01D,% of reads off target (from total reads),16.4738265105555
+HTMCP-03-06-02406-01A-01D,% of reads off target (from total reads),31.8561122568391
+HTMCP-03-06-02406-10A-01D,% of reads off target (from total reads),31.1626030138891
+HTMCP-03-06-02407-01A-01D,% of reads off target (from total reads),16.7045322765154
+HTMCP-03-06-02407-10A-01D,% of reads off target (from total reads),32.7026945742472
+HTMCP-03-06-02408-01A-01D,% of reads off target (from total reads),16.883184196311
+HTMCP-03-06-02408-10A-01D,% of reads off target (from total reads),19.7655829939967
+HTMCP-03-06-02409-01A-01D,% of reads off target (from total reads),18.382877798313
+HTMCP-03-06-02409-10A-01D,% of reads off target (from total reads),15.8335388354227
+HTMCP-03-06-02410-01A-01D,% of reads off target (from total reads),19.5281672885457
+HTMCP-03-06-02410-10A-01D,% of reads off target (from total reads),18.5805780683019
+HTMCP-03-06-02412-01A-01D,% of reads off target (from total reads),18.0692421266471
+HTMCP-03-06-02412-10A-01D,% of reads off target (from total reads),15.4106120029795
+HTMCP-03-06-02416-01A-01D,% of reads off target (from total reads),16.097726771623
+HTMCP-03-06-02416-10A-01D,% of reads off target (from total reads),19.4460450117625
+HTMCP-03-06-02367-01A-01D,% of reads off target (from total reads),30.6401127690628
+HTMCP-03-06-02367-10A-01D,% of reads off target (from total reads),16.3467536238746
+HTMCP-03-06-02368-01A-01D,% of reads off target (from total reads),15.913140902022
+HTMCP-03-06-02368-10A-01D,% of reads off target (from total reads),29.7993781893259
+HTMCP-03-06-02369-01A-01D,% of reads off target (from total reads),17.7141990233976
+HTMCP-03-06-02369-10A-01D,% of reads off target (from total reads),32.8181983388029
+HTMCP-03-06-02373-01A-01D,% of reads off target (from total reads),17.3710812961736
+HTMCP-03-06-02373-10A-01D,% of reads off target (from total reads),16.8054319767981
+HTMCP-03-06-02421-01A-01D,% of reads off target (from total reads),15.538811707883
+HTMCP-03-06-02421-10A-01D,% of reads off target (from total reads),15.5916257999414
+HTMCP-03-06-02423-01A-01D,% of reads off target (from total reads),19.5696057246498
+HTMCP-03-06-02423-10A-01D,% of reads off target (from total reads),16.2028616678757
+HTMCP-03-06-02425-01A-01D,% of reads off target (from total reads),20.6597034134642
+HTMCP-03-06-02425-10A-01D,% of reads off target (from total reads),20.3127902439611
+HTMCP-03-06-02426-01A-01D,% of reads off target (from total reads),30.1767174976217
+HTMCP-03-06-02426-10A-01D,% of reads off target (from total reads),19.9342683178627
+HTMCP-03-06-02439-01A-01D,% of reads off target (from total reads),31.4765214486272
+HTMCP-03-06-02439-10A-01D,% of reads off target (from total reads),17.8012193047343
+HTMCP-03-06-02446-01A-01D,% of reads off target (from total reads),15.7488502177847
+HTMCP-03-06-02446-10A-01D,% of reads off target (from total reads),30.1032562059932
+HTMCP-03-06-02025-01A-01D,Raw Bases Sequenced (Gb),7.542252125
+HTMCP-03-06-02025-10A-01D,Raw Bases Sequenced (Gb),11.634887375
+HTMCP-03-06-02044-01A-01D,Raw Bases Sequenced (Gb),14.675561
+HTMCP-03-06-02044-10A-01D,Raw Bases Sequenced (Gb),11.905454125
+HTMCP-03-06-02060-01A-01D,Raw Bases Sequenced (Gb),10.467429
+HTMCP-03-06-02060-10A-01D,Raw Bases Sequenced (Gb),12.67968275
+HTMCP-03-06-02061-01A-01D,Raw Bases Sequenced (Gb),12.231834
+HTMCP-03-06-02061-10A-01D,Raw Bases Sequenced (Gb),13.427088375
+HTMCP-03-06-02062-01A-01D,Raw Bases Sequenced (Gb),8.177792625
+HTMCP-03-06-02062-10A-01D,Raw Bases Sequenced (Gb),14.32203675
+HTMCP-03-06-02066-01A-01D,Raw Bases Sequenced (Gb),11.599877
+HTMCP-03-06-02066-10A-01D,Raw Bases Sequenced (Gb),11.01822
+HTMCP-03-06-02067-01A-01D,Raw Bases Sequenced (Gb),13.30453525
+HTMCP-03-06-02067-10A-01D,Raw Bases Sequenced (Gb),11.075005375
+HTMCP-03-06-02072-01A-01D,Raw Bases Sequenced (Gb),13.28783625
+HTMCP-03-06-02072-10A-01D,Raw Bases Sequenced (Gb),8.901148125
+HTMCP-03-06-02082-01A-01D,Raw Bases Sequenced (Gb),12.13376275
+HTMCP-03-06-02082-10A-01D,Raw Bases Sequenced (Gb),13.2121805
+HTMCP-03-06-02081-01A-01D,Raw Bases Sequenced (Gb),16.68679825
+HTMCP-03-06-02081-10A-01D,Raw Bases Sequenced (Gb),12.93059425
+HTMCP-03-06-02084-01A-01D,Raw Bases Sequenced (Gb),9.91469125
+HTMCP-03-06-02084-10A-01D,Raw Bases Sequenced (Gb),14.86940825
+HTMCP-03-06-02096-01A-01D,Raw Bases Sequenced (Gb),13.357822625
+HTMCP-03-06-02096-10A-01D,Raw Bases Sequenced (Gb),10.19052175
+HTMCP-03-06-02101-01C-01D,Raw Bases Sequenced (Gb),13.4323155
+HTMCP-03-06-02101-10A-01D,Raw Bases Sequenced (Gb),8.78383975
+HTMCP-03-06-02104-01A-01D,Raw Bases Sequenced (Gb),17.264817375
+HTMCP-03-06-02104-10A-01D,Raw Bases Sequenced (Gb),13.926937
+HTMCP-03-06-02107-01A-01D,Raw Bases Sequenced (Gb),8.638399875
+HTMCP-03-06-02111-01A-01D,Raw Bases Sequenced (Gb),9.913319375
+HTMCP-03-06-02111-10A-01D,Raw Bases Sequenced (Gb),12.32981525
+HTMCP-03-06-02112-01A-01D,Raw Bases Sequenced (Gb),10.824038625
+HTMCP-03-06-02112-10A-01D,Raw Bases Sequenced (Gb),12.91434625
+HTMCP-03-06-02118-01A-01D,Raw Bases Sequenced (Gb),13.746082875
+HTMCP-03-06-02118-10A-01D,Raw Bases Sequenced (Gb),9.028833875
+HTMCP-03-06-02121-01A-01D,Raw Bases Sequenced (Gb),11.98110675
+HTMCP-03-06-02121-10A-01D,Raw Bases Sequenced (Gb),18.509712625
+HTMCP-03-06-02123-01A-01D,Raw Bases Sequenced (Gb),12.465187875
+HTMCP-03-06-02123-10A-01D,Raw Bases Sequenced (Gb),13.02269475
+HTMCP-03-06-02129-01A-01D,Raw Bases Sequenced (Gb),13.637373625
+HTMCP-03-06-02129-10A-01D,Raw Bases Sequenced (Gb),9.467603375
+HTMCP-03-06-02137-01A-01D,Raw Bases Sequenced (Gb),16.6251645
+HTMCP-03-06-02137-10A-01D,Raw Bases Sequenced (Gb),9.98105
+HTMCP-03-06-02138-01A-01D,Raw Bases Sequenced (Gb),12.0672835
+HTMCP-03-06-02138-10A-01D,Raw Bases Sequenced (Gb),12.59465575
+HTMCP-03-06-02146-01A-01D,Raw Bases Sequenced (Gb),8.621373125
+HTMCP-03-06-02146-10A-01D,Raw Bases Sequenced (Gb),13.2096855
+HTMCP-03-06-02158-01A-01D,Raw Bases Sequenced (Gb),12.490777875
+HTMCP-03-06-02158-10A-01D,Raw Bases Sequenced (Gb),9.094396625
+HTMCP-03-06-02173-01A-01D,Raw Bases Sequenced (Gb),12.189558375
+HTMCP-03-06-02173-10A-01D,Raw Bases Sequenced (Gb),13.73244
+HTMCP-03-06-02177-01B-01D,Raw Bases Sequenced (Gb),
+HTMCP-03-06-02177-10A-01D,Raw Bases Sequenced (Gb),13.72812525
+HTMCP-03-06-02188-01A-01D,Raw Bases Sequenced (Gb),13.46789425
+HTMCP-03-06-02188-10A-01D,Raw Bases Sequenced (Gb),14.628934375
+HTMCP-03-06-02187-01A-01D,Raw Bases Sequenced (Gb),9.046509125
+HTMCP-03-06-02187-10A-01D,Raw Bases Sequenced (Gb),14.642616875
+HTMCP-03-06-02189-01A-01D,Raw Bases Sequenced (Gb),12.2855005
+HTMCP-03-06-02189-10A-01D,Raw Bases Sequenced (Gb),12.1066205
+HTMCP-03-06-02193-01A-01D,Raw Bases Sequenced (Gb),10.956373
+HTMCP-03-06-02193-10A-01D,Raw Bases Sequenced (Gb),9.959505125
+HTMCP-03-06-02199-01A-01D,Raw Bases Sequenced (Gb),9.94835975
+HTMCP-03-06-02206-01A-01D,Raw Bases Sequenced (Gb),9.889007875
+HTMCP-03-06-02206-10A-01D,Raw Bases Sequenced (Gb),8.75401475
+HTMCP-03-06-02211-01B-01D,Raw Bases Sequenced (Gb),12.359388375
+HTMCP-03-06-02211-10A-01D,Raw Bases Sequenced (Gb),10.4011205
+HTMCP-03-06-02218-01A-01D,Raw Bases Sequenced (Gb),11.967938
+HTMCP-03-06-02218-10A-01D,Raw Bases Sequenced (Gb),13.175298
+HTMCP-03-06-02220-01A-01D,Raw Bases Sequenced (Gb),11.30227725
+HTMCP-03-06-02220-10A-01D,Raw Bases Sequenced (Gb),12.186713875
+HTMCP-03-06-02246-01A-01D,Raw Bases Sequenced (Gb),10.2843345
+HTMCP-03-06-02246-10A-01D,Raw Bases Sequenced (Gb),14.120283
+HTMCP-03-06-02321-01A-01D,Raw Bases Sequenced (Gb),14.226609625
+HTMCP-03-06-02321-10A-01D,Raw Bases Sequenced (Gb),9.15402375
+HTMCP-03-06-02327-01A-01D,Raw Bases Sequenced (Gb),14.093692875
+HTMCP-03-06-02327-10A-01D,Raw Bases Sequenced (Gb),13.386106125
+HTMCP-03-06-02334-01A-01D,Raw Bases Sequenced (Gb),10.2694025
+HTMCP-03-06-02334-10A-01D,Raw Bases Sequenced (Gb),8.876133125
+HTMCP-03-06-02337-01A-01D,Raw Bases Sequenced (Gb),9.160867
+HTMCP-03-06-02337-10A-01D,Raw Bases Sequenced (Gb),13.7272225
+HTMCP-03-06-02338-01A-01D,Raw Bases Sequenced (Gb),10.610935
+HTMCP-03-06-02338-10A-01D,Raw Bases Sequenced (Gb),11.667559125
+HTMCP-03-06-02339-01A-01D,Raw Bases Sequenced (Gb),9.899803
+HTMCP-03-06-02339-10A-01D,Raw Bases Sequenced (Gb),11.35045675
+HTMCP-03-06-02342-01A-01D,Raw Bases Sequenced (Gb),9.01800725
+HTMCP-03-06-02342-10A-01D,Raw Bases Sequenced (Gb),10.958320875
+HTMCP-03-06-02343-01A-01D,Raw Bases Sequenced (Gb),10.89226575
+HTMCP-03-06-02343-10A-01D,Raw Bases Sequenced (Gb),14.01619325
+HTMCP-03-06-02345-01A-01D,Raw Bases Sequenced (Gb),8.94858725
+HTMCP-03-06-02345-10A-01D,Raw Bases Sequenced (Gb),13.21586275
+HTMCP-03-06-02347-01A-01D,Raw Bases Sequenced (Gb),8.3574725
+HTMCP-03-06-02347-10A-01D,Raw Bases Sequenced (Gb),12.837169625
+HTMCP-03-06-02352-01A-01D,Raw Bases Sequenced (Gb),12.010253
+HTMCP-03-06-02352-10A-01D,Raw Bases Sequenced (Gb),11.51160825
+HTMCP-03-06-02356-01A-01D,Raw Bases Sequenced (Gb),9.932837
+HTMCP-03-06-02356-10A-01D,Raw Bases Sequenced (Gb),12.712762
+HTMCP-03-06-02357-01A-01D,Raw Bases Sequenced (Gb),11.356612
+HTMCP-03-06-02357-10A-01D,Raw Bases Sequenced (Gb),12.021304625
+HTMCP-03-06-02360-01A-01D,Raw Bases Sequenced (Gb),10.7626635
+HTMCP-03-06-02360-10A-01D,Raw Bases Sequenced (Gb),9.734402375
+HTMCP-03-06-02361-01A-01D,Raw Bases Sequenced (Gb),10.27236425
+HTMCP-03-06-02361-10A-01D,Raw Bases Sequenced (Gb),11.884950875
+HTMCP-03-06-02362-01A-01D,Raw Bases Sequenced (Gb),8.802701
+HTMCP-03-06-02362-10A-01D,Raw Bases Sequenced (Gb),13.339098375
+HTMCP-03-06-02363-01A-01D,Raw Bases Sequenced (Gb),7.143889
+HTMCP-03-06-02363-10A-01D,Raw Bases Sequenced (Gb),13.44549825
+HTMCP-03-06-02365-01A-01D,Raw Bases Sequenced (Gb),10.24273175
+HTMCP-03-06-02365-10A-01D,Raw Bases Sequenced (Gb),14.286978125
+HTMCP-03-06-02366-01A-01D,Raw Bases Sequenced (Gb),11.52087475
+HTMCP-03-06-02366-10A-01D,Raw Bases Sequenced (Gb),13.78036575
+HTMCP-03-06-02364-01A-01D,Raw Bases Sequenced (Gb),11.0141795
+HTMCP-03-06-02364-10A-01D,Raw Bases Sequenced (Gb),10.609205
+HTMCP-03-06-02370-01A-01D,Raw Bases Sequenced (Gb),10.72124025
+HTMCP-03-06-02370-10A-01D,Raw Bases Sequenced (Gb),12.627907
+HTMCP-03-06-02376-01A-01D,Raw Bases Sequenced (Gb),11.79493825
+HTMCP-03-06-02376-10A-01D,Raw Bases Sequenced (Gb),10.26194425
+HTMCP-03-06-02379-01A-01D,Raw Bases Sequenced (Gb),10.892647
+HTMCP-03-06-02379-10A-01D,Raw Bases Sequenced (Gb),10.6321745
+HTMCP-03-06-02380-01A-01D,Raw Bases Sequenced (Gb),10.72383075
+HTMCP-03-06-02380-10A-01D,Raw Bases Sequenced (Gb),11.00279975
+HTMCP-03-06-02383-01A-01D,Raw Bases Sequenced (Gb),10.70796675
+HTMCP-03-06-02383-10A-01D,Raw Bases Sequenced (Gb),9.6882465
+HTMCP-03-06-02384-01A-01D,Raw Bases Sequenced (Gb),11.51272775
+HTMCP-03-06-02384-10A-01D,Raw Bases Sequenced (Gb),9.15291775
+HTMCP-03-06-02385-01A-01D,Raw Bases Sequenced (Gb),11.46928025
+HTMCP-03-06-02385-10A-01D,Raw Bases Sequenced (Gb),10.57304775
+HTMCP-03-06-02386-01C-01D,Raw Bases Sequenced (Gb),9.27622225
+HTMCP-03-06-02386-10A-01D,Raw Bases Sequenced (Gb),10.45913125
+HTMCP-03-06-02387-01A-01D,Raw Bases Sequenced (Gb),10.9698705
+HTMCP-03-06-02387-10A-01D,Raw Bases Sequenced (Gb),11.3232235
+HTMCP-03-06-02389-01A-01D,Raw Bases Sequenced (Gb),10.83522875
+HTMCP-03-06-02389-10A-01D,Raw Bases Sequenced (Gb),11.197967
+HTMCP-03-06-02394-01A-01D,Raw Bases Sequenced (Gb),9.26238975
+HTMCP-03-06-02394-10A-01D,Raw Bases Sequenced (Gb),10.36692775
+HTMCP-03-06-02397-01A-01D,Raw Bases Sequenced (Gb),12.03073725
+HTMCP-03-06-02397-10A-01D,Raw Bases Sequenced (Gb),11.2946125
+HTMCP-03-06-02399-01A-01D,Raw Bases Sequenced (Gb),8.931039
+HTMCP-03-06-02399-10A-01D,Raw Bases Sequenced (Gb),11.22749275
+HTMCP-03-06-02400-01A-01D,Raw Bases Sequenced (Gb),10.717871
+HTMCP-03-06-02400-10A-01D,Raw Bases Sequenced (Gb),10.69721625
+HTMCP-03-06-02402-01A-01D,Raw Bases Sequenced (Gb),9.0562395
+HTMCP-03-06-02402-10A-01D,Raw Bases Sequenced (Gb),10.65137525
+HTMCP-03-06-02404-01A-01D,Raw Bases Sequenced (Gb),11.23792425
+HTMCP-03-06-02404-10A-01D,Raw Bases Sequenced (Gb),10.763183
+HTMCP-03-06-02406-01A-01D,Raw Bases Sequenced (Gb),9.0058265
+HTMCP-03-06-02406-10A-01D,Raw Bases Sequenced (Gb),11.728328
+HTMCP-03-06-02407-01A-01D,Raw Bases Sequenced (Gb),10.209573
+HTMCP-03-06-02407-10A-01D,Raw Bases Sequenced (Gb),7.47051475
+HTMCP-03-06-02408-01A-01D,Raw Bases Sequenced (Gb),11.14242975
+HTMCP-03-06-02408-10A-01D,Raw Bases Sequenced (Gb),10.87063825
+HTMCP-03-06-02409-01A-01D,Raw Bases Sequenced (Gb),10.43221075
+HTMCP-03-06-02409-10A-01D,Raw Bases Sequenced (Gb),12.67656225
+HTMCP-03-06-02410-01A-01D,Raw Bases Sequenced (Gb),9.46239775
+HTMCP-03-06-02410-10A-01D,Raw Bases Sequenced (Gb),10.4642075
+HTMCP-03-06-02412-01A-01D,Raw Bases Sequenced (Gb),10.2947325
+HTMCP-03-06-02412-10A-01D,Raw Bases Sequenced (Gb),10.9501495
+HTMCP-03-06-02416-01A-01D,Raw Bases Sequenced (Gb),10.53480475
+HTMCP-03-06-02416-10A-01D,Raw Bases Sequenced (Gb),10.2724565
+HTMCP-03-06-02367-01A-01D,Raw Bases Sequenced (Gb),11.67539975
+HTMCP-03-06-02367-10A-01D,Raw Bases Sequenced (Gb),10.85693675
+HTMCP-03-06-02368-01A-01D,Raw Bases Sequenced (Gb),8.2987925
+HTMCP-03-06-02368-10A-01D,Raw Bases Sequenced (Gb),11.604182
+HTMCP-03-06-02369-01A-01D,Raw Bases Sequenced (Gb),10.7795055
+HTMCP-03-06-02369-10A-01D,Raw Bases Sequenced (Gb),8.33501675
+HTMCP-03-06-02373-01A-01D,Raw Bases Sequenced (Gb),10.25994575
+HTMCP-03-06-02373-10A-01D,Raw Bases Sequenced (Gb),11.3462245
+HTMCP-03-06-02421-01A-01D,Raw Bases Sequenced (Gb),11.506068
+HTMCP-03-06-02421-10A-01D,Raw Bases Sequenced (Gb),12.20201175
+HTMCP-03-06-02423-01A-01D,Raw Bases Sequenced (Gb),9.170984
+HTMCP-03-06-02423-10A-01D,Raw Bases Sequenced (Gb),11.10299975
+HTMCP-03-06-02425-01A-01D,Raw Bases Sequenced (Gb),10.99491575
+HTMCP-03-06-02425-10A-01D,Raw Bases Sequenced (Gb),11.48643825
+HTMCP-03-06-02426-01A-01D,Raw Bases Sequenced (Gb),12.1254575
+HTMCP-03-06-02426-10A-01D,Raw Bases Sequenced (Gb),10.71362225
+HTMCP-03-06-02439-01A-01D,Raw Bases Sequenced (Gb),11.59708025
+HTMCP-03-06-02439-10A-01D,Raw Bases Sequenced (Gb),11.3367185
+HTMCP-03-06-02446-01A-01D,Raw Bases Sequenced (Gb),5.511057
+HTMCP-03-06-02446-10A-01D,Raw Bases Sequenced (Gb),11.7147825
+HTMCP-03-06-02025-01A-01D,Number of bases Aligned (Gb),7.530019375
+HTMCP-03-06-02025-10A-01D,Number of bases Aligned (Gb),11.596493375
+HTMCP-03-06-02044-01A-01D,Number of bases Aligned (Gb),14.6540245
+HTMCP-03-06-02044-10A-01D,Number of bases Aligned (Gb),11.8660685
+HTMCP-03-06-02060-01A-01D,Number of bases Aligned (Gb),10.4543145
+HTMCP-03-06-02060-10A-01D,Number of bases Aligned (Gb),12.66215175
+HTMCP-03-06-02061-01A-01D,Number of bases Aligned (Gb),11.962814125
+HTMCP-03-06-02061-10A-01D,Number of bases Aligned (Gb),13.40583075
+HTMCP-03-06-02062-01A-01D,Number of bases Aligned (Gb),8.02668775
+HTMCP-03-06-02062-10A-01D,Number of bases Aligned (Gb),14.300627625
+HTMCP-03-06-02066-01A-01D,Number of bases Aligned (Gb),11.560827625
+HTMCP-03-06-02066-10A-01D,Number of bases Aligned (Gb),10.7662875
+HTMCP-03-06-02067-01A-01D,Number of bases Aligned (Gb),13.259147125
+HTMCP-03-06-02067-10A-01D,Number of bases Aligned (Gb),10.795066375
+HTMCP-03-06-02072-01A-01D,Number of bases Aligned (Gb),13.26895175
+HTMCP-03-06-02072-10A-01D,Number of bases Aligned (Gb),8.746964625
+HTMCP-03-06-02082-01A-01D,Number of bases Aligned (Gb),12.114562625
+HTMCP-03-06-02082-10A-01D,Number of bases Aligned (Gb),13.168013625
+HTMCP-03-06-02081-01A-01D,Number of bases Aligned (Gb),16.659829
+HTMCP-03-06-02081-10A-01D,Number of bases Aligned (Gb),12.88792625
+HTMCP-03-06-02084-01A-01D,Number of bases Aligned (Gb),9.713351125
+HTMCP-03-06-02084-10A-01D,Number of bases Aligned (Gb),14.8496175
+HTMCP-03-06-02096-01A-01D,Number of bases Aligned (Gb),13.334888875
+HTMCP-03-06-02096-10A-01D,Number of bases Aligned (Gb),9.9857555
+HTMCP-03-06-02101-01C-01D,Number of bases Aligned (Gb),13.384303875
+HTMCP-03-06-02101-10A-01D,Number of bases Aligned (Gb),8.629754875
+HTMCP-03-06-02104-01A-01D,Number of bases Aligned (Gb),17.23789325
+HTMCP-03-06-02104-10A-01D,Number of bases Aligned (Gb),13.88169
+HTMCP-03-06-02107-01A-01D,Number of bases Aligned (Gb),8.430590625
+HTMCP-03-06-02111-01A-01D,Number of bases Aligned (Gb),9.69577525
+HTMCP-03-06-02111-10A-01D,Number of bases Aligned (Gb),12.2866205
+HTMCP-03-06-02112-01A-01D,Number of bases Aligned (Gb),10.597363125
+HTMCP-03-06-02112-10A-01D,Number of bases Aligned (Gb),12.895923875
+HTMCP-03-06-02118-01A-01D,Number of bases Aligned (Gb),13.697207125
+HTMCP-03-06-02118-10A-01D,Number of bases Aligned (Gb),9.01609275
+HTMCP-03-06-02121-01A-01D,Number of bases Aligned (Gb),11.9434405
+HTMCP-03-06-02121-10A-01D,Number of bases Aligned (Gb),18.48232875
+HTMCP-03-06-02123-01A-01D,Number of bases Aligned (Gb),12.127770125
+HTMCP-03-06-02123-10A-01D,Number of bases Aligned (Gb),12.705109125
+HTMCP-03-06-02129-01A-01D,Number of bases Aligned (Gb),13.6160065
+HTMCP-03-06-02129-10A-01D,Number of bases Aligned (Gb),9.308575
+HTMCP-03-06-02137-01A-01D,Number of bases Aligned (Gb),16.59802775
+HTMCP-03-06-02137-10A-01D,Number of bases Aligned (Gb),9.7929275
+HTMCP-03-06-02138-01A-01D,Number of bases Aligned (Gb),11.775115375
+HTMCP-03-06-02138-10A-01D,Number of bases Aligned (Gb),12.551897625
+HTMCP-03-06-02146-01A-01D,Number of bases Aligned (Gb),8.44152475
+HTMCP-03-06-02146-10A-01D,Number of bases Aligned (Gb),13.1730855
+HTMCP-03-06-02158-01A-01D,Number of bases Aligned (Gb),12.47368
+HTMCP-03-06-02158-10A-01D,Number of bases Aligned (Gb),8.92830075
+HTMCP-03-06-02173-01A-01D,Number of bases Aligned (Gb),12.171679375
+HTMCP-03-06-02173-10A-01D,Number of bases Aligned (Gb),13.68131175
+HTMCP-03-06-02177-01B-01D,Number of bases Aligned (Gb),
+HTMCP-03-06-02177-10A-01D,Number of bases Aligned (Gb),13.706761375
+HTMCP-03-06-02188-01A-01D,Number of bases Aligned (Gb),13.44857425
+HTMCP-03-06-02188-10A-01D,Number of bases Aligned (Gb),14.608812375
+HTMCP-03-06-02187-01A-01D,Number of bases Aligned (Gb),9.033313125
+HTMCP-03-06-02187-10A-01D,Number of bases Aligned (Gb),14.620627125
+HTMCP-03-06-02189-01A-01D,Number of bases Aligned (Gb),12.017359625
+HTMCP-03-06-02189-10A-01D,Number of bases Aligned (Gb),11.859002125
+HTMCP-03-06-02193-01A-01D,Number of bases Aligned (Gb),10.712848125
+HTMCP-03-06-02193-10A-01D,Number of bases Aligned (Gb),9.947106875
+HTMCP-03-06-02199-01A-01D,Number of bases Aligned (Gb),9.768813625
+HTMCP-03-06-02206-01A-01D,Number of bases Aligned (Gb),9.6687165
+HTMCP-03-06-02206-10A-01D,Number of bases Aligned (Gb),8.57830675
+HTMCP-03-06-02211-01B-01D,Number of bases Aligned (Gb),12.096639625
+HTMCP-03-06-02211-10A-01D,Number of bases Aligned (Gb),10.214113875
+HTMCP-03-06-02218-01A-01D,Number of bases Aligned (Gb),11.931263125
+HTMCP-03-06-02218-10A-01D,Number of bases Aligned (Gb),13.13103575
+HTMCP-03-06-02220-01A-01D,Number of bases Aligned (Gb),11.051233125
+HTMCP-03-06-02220-10A-01D,Number of bases Aligned (Gb),12.169584625
+HTMCP-03-06-02246-01A-01D,Number of bases Aligned (Gb),10.09706075
+HTMCP-03-06-02246-10A-01D,Number of bases Aligned (Gb),14.09874075
+HTMCP-03-06-02321-01A-01D,Number of bases Aligned (Gb),14.207144
+HTMCP-03-06-02321-10A-01D,Number of bases Aligned (Gb),8.989259
+HTMCP-03-06-02327-01A-01D,Number of bases Aligned (Gb),14.073669375
+HTMCP-03-06-02327-10A-01D,Number of bases Aligned (Gb),13.343642625
+HTMCP-03-06-02334-01A-01D,Number of bases Aligned (Gb),9.99933675
+HTMCP-03-06-02334-10A-01D,Number of bases Aligned (Gb),8.863326375
+HTMCP-03-06-02337-01A-01D,Number of bases Aligned (Gb),8.9178425
+HTMCP-03-06-02337-10A-01D,Number of bases Aligned (Gb),13.414941875
+HTMCP-03-06-02338-01A-01D,Number of bases Aligned (Gb),10.2856585
+HTMCP-03-06-02338-10A-01D,Number of bases Aligned (Gb),11.342126875
+HTMCP-03-06-02339-01A-01D,Number of bases Aligned (Gb),9.606817875
+HTMCP-03-06-02339-10A-01D,Number of bases Aligned (Gb),11.140093
+HTMCP-03-06-02342-01A-01D,Number of bases Aligned (Gb),8.762457375
+HTMCP-03-06-02342-10A-01D,Number of bases Aligned (Gb),10.718701625
+HTMCP-03-06-02343-01A-01D,Number of bases Aligned (Gb),10.548383875
+HTMCP-03-06-02343-10A-01D,Number of bases Aligned (Gb),13.972091375
+HTMCP-03-06-02345-01A-01D,Number of bases Aligned (Gb),8.645420875
+HTMCP-03-06-02345-10A-01D,Number of bases Aligned (Gb),13.19596675
+HTMCP-03-06-02347-01A-01D,Number of bases Aligned (Gb),8.109077875
+HTMCP-03-06-02347-10A-01D,Number of bases Aligned (Gb),12.8202215
+HTMCP-03-06-02352-01A-01D,Number of bases Aligned (Gb),11.681543625
+HTMCP-03-06-02352-10A-01D,Number of bases Aligned (Gb),11.493476875
+HTMCP-03-06-02356-01A-01D,Number of bases Aligned (Gb),9.61713125
+HTMCP-03-06-02356-10A-01D,Number of bases Aligned (Gb),12.397937375
+HTMCP-03-06-02357-01A-01D,Number of bases Aligned (Gb),11.041810875
+HTMCP-03-06-02357-10A-01D,Number of bases Aligned (Gb),11.7017165
+HTMCP-03-06-02360-01A-01D,Number of bases Aligned (Gb),10.4673015
+HTMCP-03-06-02360-10A-01D,Number of bases Aligned (Gb),9.518124875
+HTMCP-03-06-02361-01A-01D,Number of bases Aligned (Gb),9.972128
+HTMCP-03-06-02361-10A-01D,Number of bases Aligned (Gb),11.649073125
+HTMCP-03-06-02362-01A-01D,Number of bases Aligned (Gb),8.495263
+HTMCP-03-06-02362-10A-01D,Number of bases Aligned (Gb),13.295938125
+HTMCP-03-06-02363-01A-01D,Number of bases Aligned (Gb),6.953700625
+HTMCP-03-06-02363-10A-01D,Number of bases Aligned (Gb),13.427688375
+HTMCP-03-06-02365-01A-01D,Number of bases Aligned (Gb),9.918226875
+HTMCP-03-06-02365-10A-01D,Number of bases Aligned (Gb),14.2677755
+HTMCP-03-06-02366-01A-01D,Number of bases Aligned (Gb),11.1958445
+HTMCP-03-06-02366-10A-01D,Number of bases Aligned (Gb),13.760980875
+HTMCP-03-06-02364-01A-01D,Number of bases Aligned (Gb),10.74577375
+HTMCP-03-06-02364-10A-01D,Number of bases Aligned (Gb),10.3054855
+HTMCP-03-06-02370-01A-01D,Number of bases Aligned (Gb),10.388270125
+HTMCP-03-06-02370-10A-01D,Number of bases Aligned (Gb),12.252300625
+HTMCP-03-06-02376-01A-01D,Number of bases Aligned (Gb),11.358558625
+HTMCP-03-06-02376-10A-01D,Number of bases Aligned (Gb),9.956908375
+HTMCP-03-06-02379-01A-01D,Number of bases Aligned (Gb),10.55528725
+HTMCP-03-06-02379-10A-01D,Number of bases Aligned (Gb),10.321377
+HTMCP-03-06-02380-01A-01D,Number of bases Aligned (Gb),10.380936375
+HTMCP-03-06-02380-10A-01D,Number of bases Aligned (Gb),10.662879625
+HTMCP-03-06-02383-01A-01D,Number of bases Aligned (Gb),10.418360875
+HTMCP-03-06-02383-10A-01D,Number of bases Aligned (Gb),9.381308125
+HTMCP-03-06-02384-01A-01D,Number of bases Aligned (Gb),11.217351
+HTMCP-03-06-02384-10A-01D,Number of bases Aligned (Gb),8.882698375
+HTMCP-03-06-02385-01A-01D,Number of bases Aligned (Gb),11.103006375
+HTMCP-03-06-02385-10A-01D,Number of bases Aligned (Gb),10.26933825
+HTMCP-03-06-02386-01C-01D,Number of bases Aligned (Gb),9.02654525
+HTMCP-03-06-02386-10A-01D,Number of bases Aligned (Gb),10.135754
+HTMCP-03-06-02387-01A-01D,Number of bases Aligned (Gb),10.619876375
+HTMCP-03-06-02387-10A-01D,Number of bases Aligned (Gb),10.970604125
+HTMCP-03-06-02389-01A-01D,Number of bases Aligned (Gb),10.4355225
+HTMCP-03-06-02389-10A-01D,Number of bases Aligned (Gb),10.857696
+HTMCP-03-06-02394-01A-01D,Number of bases Aligned (Gb),8.96819475
+HTMCP-03-06-02394-10A-01D,Number of bases Aligned (Gb),10.059821625
+HTMCP-03-06-02397-01A-01D,Number of bases Aligned (Gb),11.619396625
+HTMCP-03-06-02397-10A-01D,Number of bases Aligned (Gb),10.910524375
+HTMCP-03-06-02399-01A-01D,Number of bases Aligned (Gb),8.66358175
+HTMCP-03-06-02399-10A-01D,Number of bases Aligned (Gb),10.78997725
+HTMCP-03-06-02400-01A-01D,Number of bases Aligned (Gb),10.4366965
+HTMCP-03-06-02400-10A-01D,Number of bases Aligned (Gb),10.3613105
+HTMCP-03-06-02402-01A-01D,Number of bases Aligned (Gb),8.80245375
+HTMCP-03-06-02402-10A-01D,Number of bases Aligned (Gb),10.341713625
+HTMCP-03-06-02404-01A-01D,Number of bases Aligned (Gb),10.898723
+HTMCP-03-06-02404-10A-01D,Number of bases Aligned (Gb),10.472397625
+HTMCP-03-06-02406-01A-01D,Number of bases Aligned (Gb),8.75205525
+HTMCP-03-06-02406-10A-01D,Number of bases Aligned (Gb),11.395091625
+HTMCP-03-06-02407-01A-01D,Number of bases Aligned (Gb),9.883995875
+HTMCP-03-06-02407-10A-01D,Number of bases Aligned (Gb),7.253904125
+HTMCP-03-06-02408-01A-01D,Number of bases Aligned (Gb),10.73829425
+HTMCP-03-06-02408-10A-01D,Number of bases Aligned (Gb),10.532533625
+HTMCP-03-06-02409-01A-01D,Number of bases Aligned (Gb),10.072870125
+HTMCP-03-06-02409-10A-01D,Number of bases Aligned (Gb),12.274630375
+HTMCP-03-06-02410-01A-01D,Number of bases Aligned (Gb),9.131981625
+HTMCP-03-06-02410-10A-01D,Number of bases Aligned (Gb),10.144387
+HTMCP-03-06-02412-01A-01D,Number of bases Aligned (Gb),10.011411
+HTMCP-03-06-02412-10A-01D,Number of bases Aligned (Gb),10.619265
+HTMCP-03-06-02416-01A-01D,Number of bases Aligned (Gb),10.245726875
+HTMCP-03-06-02416-10A-01D,Number of bases Aligned (Gb),9.973741625
+HTMCP-03-06-02367-01A-01D,Number of bases Aligned (Gb),11.314175125
+HTMCP-03-06-02367-10A-01D,Number of bases Aligned (Gb),10.573330625
+HTMCP-03-06-02368-01A-01D,Number of bases Aligned (Gb),8.059883625
+HTMCP-03-06-02368-10A-01D,Number of bases Aligned (Gb),11.261404125
+HTMCP-03-06-02369-01A-01D,Number of bases Aligned (Gb),10.416841625
+HTMCP-03-06-02369-10A-01D,Number of bases Aligned (Gb),8.10235175
+HTMCP-03-06-02373-01A-01D,Number of bases Aligned (Gb),9.88361175
+HTMCP-03-06-02373-10A-01D,Number of bases Aligned (Gb),11.00631675
+HTMCP-03-06-02421-01A-01D,Number of bases Aligned (Gb),11.101864375
+HTMCP-03-06-02421-10A-01D,Number of bases Aligned (Gb),11.8002445
+HTMCP-03-06-02423-01A-01D,Number of bases Aligned (Gb),8.844490875
+HTMCP-03-06-02423-10A-01D,Number of bases Aligned (Gb),10.732558625
+HTMCP-03-06-02425-01A-01D,Number of bases Aligned (Gb),10.672978375
+HTMCP-03-06-02425-10A-01D,Number of bases Aligned (Gb),11.102445375
+HTMCP-03-06-02426-01A-01D,Number of bases Aligned (Gb),11.812294125
+HTMCP-03-06-02426-10A-01D,Number of bases Aligned (Gb),10.41185225
+HTMCP-03-06-02439-01A-01D,Number of bases Aligned (Gb),11.285544625
+HTMCP-03-06-02439-10A-01D,Number of bases Aligned (Gb),11.02663225
+HTMCP-03-06-02446-01A-01D,Number of bases Aligned (Gb),5.34865825
+HTMCP-03-06-02446-10A-01D,Number of bases Aligned (Gb),11.361634625
+HTMCP-03-06-02025-01A-01D,Number of bases with zero coverage (kb),625.417
+HTMCP-03-06-02025-10A-01D,Number of bases with zero coverage (kb),596.147
+HTMCP-03-06-02044-01A-01D,Number of bases with zero coverage (kb),512.361
+HTMCP-03-06-02044-10A-01D,Number of bases with zero coverage (kb),573.668
+HTMCP-03-06-02060-01A-01D,Number of bases with zero coverage (kb),711.954
+HTMCP-03-06-02060-10A-01D,Number of bases with zero coverage (kb),569.265
+HTMCP-03-06-02061-01A-01D,Number of bases with zero coverage (kb),666.857
+HTMCP-03-06-02061-10A-01D,Number of bases with zero coverage (kb),483.654
+HTMCP-03-06-02062-01A-01D,Number of bases with zero coverage (kb),630.924
+HTMCP-03-06-02062-10A-01D,Number of bases with zero coverage (kb),443.813
+HTMCP-03-06-02066-01A-01D,Number of bases with zero coverage (kb),598.344
+HTMCP-03-06-02066-10A-01D,Number of bases with zero coverage (kb),698.01
+HTMCP-03-06-02067-01A-01D,Number of bases with zero coverage (kb),559.247
+HTMCP-03-06-02067-10A-01D,Number of bases with zero coverage (kb),684.966
+HTMCP-03-06-02072-01A-01D,Number of bases with zero coverage (kb),540.321
+HTMCP-03-06-02072-10A-01D,Number of bases with zero coverage (kb),576.598
+HTMCP-03-06-02082-01A-01D,Number of bases with zero coverage (kb),496.537
+HTMCP-03-06-02082-10A-01D,Number of bases with zero coverage (kb),570.054
+HTMCP-03-06-02081-01A-01D,Number of bases with zero coverage (kb),421.235
+HTMCP-03-06-02081-10A-01D,Number of bases with zero coverage (kb),559.017
+HTMCP-03-06-02084-01A-01D,Number of bases with zero coverage (kb),726.083
+HTMCP-03-06-02084-10A-01D,Number of bases with zero coverage (kb),542.702
+HTMCP-03-06-02096-01A-01D,Number of bases with zero coverage (kb),511.152
+HTMCP-03-06-02096-10A-01D,Number of bases with zero coverage (kb),524.222
+HTMCP-03-06-02101-01C-01D,Number of bases with zero coverage (kb),462.192
+HTMCP-03-06-02101-10A-01D,Number of bases with zero coverage (kb),591.57
+HTMCP-03-06-02104-01A-01D,Number of bases with zero coverage (kb),432.907
+HTMCP-03-06-02104-10A-01D,Number of bases with zero coverage (kb),553.433
+HTMCP-03-06-02107-01A-01D,Number of bases with zero coverage (kb),814.847
+HTMCP-03-06-02111-01A-01D,Number of bases with zero coverage (kb),564.5
+HTMCP-03-06-02111-10A-01D,Number of bases with zero coverage (kb),584.788
+HTMCP-03-06-02112-01A-01D,Number of bases with zero coverage (kb),563.936
+HTMCP-03-06-02112-10A-01D,Number of bases with zero coverage (kb),561.266
+HTMCP-03-06-02118-01A-01D,Number of bases with zero coverage (kb),535.586
+HTMCP-03-06-02118-10A-01D,Number of bases with zero coverage (kb),610.542
+HTMCP-03-06-02121-01A-01D,Number of bases with zero coverage (kb),590.504
+HTMCP-03-06-02121-10A-01D,Number of bases with zero coverage (kb),422.304
+HTMCP-03-06-02123-01A-01D,Number of bases with zero coverage (kb),578.09
+HTMCP-03-06-02123-10A-01D,Number of bases with zero coverage (kb),663.451
+HTMCP-03-06-02129-01A-01D,Number of bases with zero coverage (kb),463.876
+HTMCP-03-06-02129-10A-01D,Number of bases with zero coverage (kb),576.764
+HTMCP-03-06-02137-01A-01D,Number of bases with zero coverage (kb),452.642
+HTMCP-03-06-02137-10A-01D,Number of bases with zero coverage (kb),575.995
+HTMCP-03-06-02138-01A-01D,Number of bases with zero coverage (kb),684.678
+HTMCP-03-06-02138-10A-01D,Number of bases with zero coverage (kb),592.512
+HTMCP-03-06-02146-01A-01D,Number of bases with zero coverage (kb),620.707
+HTMCP-03-06-02146-10A-01D,Number of bases with zero coverage (kb),573.731
+HTMCP-03-06-02158-01A-01D,Number of bases with zero coverage (kb),573.516
+HTMCP-03-06-02158-10A-01D,Number of bases with zero coverage (kb),536.852
+HTMCP-03-06-02173-01A-01D,Number of bases with zero coverage (kb),558.697
+HTMCP-03-06-02173-10A-01D,Number of bases with zero coverage (kb),544.868
+HTMCP-03-06-02177-01B-01D,Number of bases with zero coverage (kb),
+HTMCP-03-06-02177-10A-01D,Number of bases with zero coverage (kb),495.819
+HTMCP-03-06-02188-01A-01D,Number of bases with zero coverage (kb),556.586
+HTMCP-03-06-02188-10A-01D,Number of bases with zero coverage (kb),533.2
+HTMCP-03-06-02187-01A-01D,Number of bases with zero coverage (kb),584.076
+HTMCP-03-06-02187-10A-01D,Number of bases with zero coverage (kb),488.566
+HTMCP-03-06-02189-01A-01D,Number of bases with zero coverage (kb),670.691
+HTMCP-03-06-02189-10A-01D,Number of bases with zero coverage (kb),666.915
+HTMCP-03-06-02193-01A-01D,Number of bases with zero coverage (kb),700.629
+HTMCP-03-06-02193-10A-01D,Number of bases with zero coverage (kb),614.176
+HTMCP-03-06-02199-01A-01D,Number of bases with zero coverage (kb),560.884
+HTMCP-03-06-02206-01A-01D,Number of bases with zero coverage (kb),560.26
+HTMCP-03-06-02206-10A-01D,Number of bases with zero coverage (kb),548.021
+HTMCP-03-06-02211-01B-01D,Number of bases with zero coverage (kb),632.0
+HTMCP-03-06-02211-10A-01D,Number of bases with zero coverage (kb),516.431
+HTMCP-03-06-02218-01A-01D,Number of bases with zero coverage (kb),600.154
+HTMCP-03-06-02218-10A-01D,Number of bases with zero coverage (kb),578.373
+HTMCP-03-06-02220-01A-01D,Number of bases with zero coverage (kb),682.741
+HTMCP-03-06-02220-10A-01D,Number of bases with zero coverage (kb),555.109
+HTMCP-03-06-02246-01A-01D,Number of bases with zero coverage (kb),523.459
+HTMCP-03-06-02246-10A-01D,Number of bases with zero coverage (kb),453.606
+HTMCP-03-06-02321-01A-01D,Number of bases with zero coverage (kb),539.834
+HTMCP-03-06-02321-10A-01D,Number of bases with zero coverage (kb),532.773
+HTMCP-03-06-02327-01A-01D,Number of bases with zero coverage (kb),547.703
+HTMCP-03-06-02327-10A-01D,Number of bases with zero coverage (kb),570.784
+HTMCP-03-06-02334-01A-01D,Number of bases with zero coverage (kb),510.319
+HTMCP-03-06-02334-10A-01D,Number of bases with zero coverage (kb),589.2
+HTMCP-03-06-02337-01A-01D,Number of bases with zero coverage (kb),513.783
+HTMCP-03-06-02337-10A-01D,Number of bases with zero coverage (kb),626.673
+HTMCP-03-06-02338-01A-01D,Number of bases with zero coverage (kb),554.01
+HTMCP-03-06-02338-10A-01D,Number of bases with zero coverage (kb),693.063
+HTMCP-03-06-02339-01A-01D,Number of bases with zero coverage (kb),558.817
+HTMCP-03-06-02339-10A-01D,Number of bases with zero coverage (kb),535.994
+HTMCP-03-06-02342-01A-01D,Number of bases with zero coverage (kb),537.762
+HTMCP-03-06-02342-10A-01D,Number of bases with zero coverage (kb),523.593
+HTMCP-03-06-02343-01A-01D,Number of bases with zero coverage (kb),553.584
+HTMCP-03-06-02343-10A-01D,Number of bases with zero coverage (kb),545.883
+HTMCP-03-06-02345-01A-01D,Number of bases with zero coverage (kb),607.745
+HTMCP-03-06-02345-10A-01D,Number of bases with zero coverage (kb),528.927
+HTMCP-03-06-02347-01A-01D,Number of bases with zero coverage (kb),628.936
+HTMCP-03-06-02347-10A-01D,Number of bases with zero coverage (kb),561.164
+HTMCP-03-06-02352-01A-01D,Number of bases with zero coverage (kb),475.908
+HTMCP-03-06-02352-10A-01D,Number of bases with zero coverage (kb),538.673
+HTMCP-03-06-02356-01A-01D,Number of bases with zero coverage (kb),498.9
+HTMCP-03-06-02356-10A-01D,Number of bases with zero coverage (kb),652.693
+HTMCP-03-06-02357-01A-01D,Number of bases with zero coverage (kb),557.441
+HTMCP-03-06-02357-10A-01D,Number of bases with zero coverage (kb),670.315
+HTMCP-03-06-02360-01A-01D,Number of bases with zero coverage (kb),553.647
+HTMCP-03-06-02360-10A-01D,Number of bases with zero coverage (kb),565.775
+HTMCP-03-06-02361-01A-01D,Number of bases with zero coverage (kb),554.024
+HTMCP-03-06-02361-10A-01D,Number of bases with zero coverage (kb),513.262
+HTMCP-03-06-02362-01A-01D,Number of bases with zero coverage (kb),566.407
+HTMCP-03-06-02362-10A-01D,Number of bases with zero coverage (kb),572.218
+HTMCP-03-06-02363-01A-01D,Number of bases with zero coverage (kb),695.063
+HTMCP-03-06-02363-10A-01D,Number of bases with zero coverage (kb),521.755
+HTMCP-03-06-02365-01A-01D,Number of bases with zero coverage (kb),592.684
+HTMCP-03-06-02365-10A-01D,Number of bases with zero coverage (kb),538.844
+HTMCP-03-06-02366-01A-01D,Number of bases with zero coverage (kb),462.595
+HTMCP-03-06-02366-10A-01D,Number of bases with zero coverage (kb),508.081
+HTMCP-03-06-02364-01A-01D,Number of bases with zero coverage (kb),539.75
+HTMCP-03-06-02364-10A-01D,Number of bases with zero coverage (kb),482.731
+HTMCP-03-06-02370-01A-01D,Number of bases with zero coverage (kb),555.198
+HTMCP-03-06-02370-10A-01D,Number of bases with zero coverage (kb),519.669
+HTMCP-03-06-02376-01A-01D,Number of bases with zero coverage (kb),501.263
+HTMCP-03-06-02376-10A-01D,Number of bases with zero coverage (kb),556.222
+HTMCP-03-06-02379-01A-01D,Number of bases with zero coverage (kb),580.682
+HTMCP-03-06-02379-10A-01D,Number of bases with zero coverage (kb),516.137
+HTMCP-03-06-02380-01A-01D,Number of bases with zero coverage (kb),571.295
+HTMCP-03-06-02380-10A-01D,Number of bases with zero coverage (kb),548.04
+HTMCP-03-06-02383-01A-01D,Number of bases with zero coverage (kb),520.268
+HTMCP-03-06-02383-10A-01D,Number of bases with zero coverage (kb),580.625
+HTMCP-03-06-02384-01A-01D,Number of bases with zero coverage (kb),502.451
+HTMCP-03-06-02384-10A-01D,Number of bases with zero coverage (kb),610.673
+HTMCP-03-06-02385-01A-01D,Number of bases with zero coverage (kb),519.695
+HTMCP-03-06-02385-10A-01D,Number of bases with zero coverage (kb),510.263
+HTMCP-03-06-02386-01C-01D,Number of bases with zero coverage (kb),575.289
+HTMCP-03-06-02386-10A-01D,Number of bases with zero coverage (kb),486.454
+HTMCP-03-06-02387-01A-01D,Number of bases with zero coverage (kb),544.043
+HTMCP-03-06-02387-10A-01D,Number of bases with zero coverage (kb),545.421
+HTMCP-03-06-02389-01A-01D,Number of bases with zero coverage (kb),523.897
+HTMCP-03-06-02389-10A-01D,Number of bases with zero coverage (kb),536.415
+HTMCP-03-06-02394-01A-01D,Number of bases with zero coverage (kb),571.078
+HTMCP-03-06-02394-10A-01D,Number of bases with zero coverage (kb),535.113
+HTMCP-03-06-02397-01A-01D,Number of bases with zero coverage (kb),551.847
+HTMCP-03-06-02397-10A-01D,Number of bases with zero coverage (kb),539.185
+HTMCP-03-06-02399-01A-01D,Number of bases with zero coverage (kb),621.48
+HTMCP-03-06-02399-10A-01D,Number of bases with zero coverage (kb),572.769
+HTMCP-03-06-02400-01A-01D,Number of bases with zero coverage (kb),497.048
+HTMCP-03-06-02400-10A-01D,Number of bases with zero coverage (kb),574.101
+HTMCP-03-06-02402-01A-01D,Number of bases with zero coverage (kb),518.468
+HTMCP-03-06-02402-10A-01D,Number of bases with zero coverage (kb),488.929
+HTMCP-03-06-02404-01A-01D,Number of bases with zero coverage (kb),540.018
+HTMCP-03-06-02404-10A-01D,Number of bases with zero coverage (kb),486.681
+HTMCP-03-06-02406-01A-01D,Number of bases with zero coverage (kb),585.844
+HTMCP-03-06-02406-10A-01D,Number of bases with zero coverage (kb),528.991
+HTMCP-03-06-02407-01A-01D,Number of bases with zero coverage (kb),560.673
+HTMCP-03-06-02407-10A-01D,Number of bases with zero coverage (kb),610.514
+HTMCP-03-06-02408-01A-01D,Number of bases with zero coverage (kb),579.328
+HTMCP-03-06-02408-10A-01D,Number of bases with zero coverage (kb),508.426
+HTMCP-03-06-02409-01A-01D,Number of bases with zero coverage (kb),583.982
+HTMCP-03-06-02409-10A-01D,Number of bases with zero coverage (kb),524.272
+HTMCP-03-06-02410-01A-01D,Number of bases with zero coverage (kb),591.24
+HTMCP-03-06-02410-10A-01D,Number of bases with zero coverage (kb),561.001
+HTMCP-03-06-02412-01A-01D,Number of bases with zero coverage (kb),517.531
+HTMCP-03-06-02412-10A-01D,Number of bases with zero coverage (kb),584.24
+HTMCP-03-06-02416-01A-01D,Number of bases with zero coverage (kb),514.289
+HTMCP-03-06-02416-10A-01D,Number of bases with zero coverage (kb),483.856
+HTMCP-03-06-02367-01A-01D,Number of bases with zero coverage (kb),548.089
+HTMCP-03-06-02367-10A-01D,Number of bases with zero coverage (kb),490.852
+HTMCP-03-06-02368-01A-01D,Number of bases with zero coverage (kb),598.374
+HTMCP-03-06-02368-10A-01D,Number of bases with zero coverage (kb),554.079
+HTMCP-03-06-02369-01A-01D,Number of bases with zero coverage (kb),533.941
+HTMCP-03-06-02369-10A-01D,Number of bases with zero coverage (kb),582.649
+HTMCP-03-06-02373-01A-01D,Number of bases with zero coverage (kb),589.396
+HTMCP-03-06-02373-10A-01D,Number of bases with zero coverage (kb),519.732
+HTMCP-03-06-02421-01A-01D,Number of bases with zero coverage (kb),588.207
+HTMCP-03-06-02421-10A-01D,Number of bases with zero coverage (kb),525.353
+HTMCP-03-06-02423-01A-01D,Number of bases with zero coverage (kb),596.724
+HTMCP-03-06-02423-10A-01D,Number of bases with zero coverage (kb),546.937
+HTMCP-03-06-02425-01A-01D,Number of bases with zero coverage (kb),469.728
+HTMCP-03-06-02425-10A-01D,Number of bases with zero coverage (kb),530.194
+HTMCP-03-06-02426-01A-01D,Number of bases with zero coverage (kb),528.352
+HTMCP-03-06-02426-10A-01D,Number of bases with zero coverage (kb),464.988
+HTMCP-03-06-02439-01A-01D,Number of bases with zero coverage (kb),527.161
+HTMCP-03-06-02439-10A-01D,Number of bases with zero coverage (kb),479.471
+HTMCP-03-06-02446-01A-01D,Number of bases with zero coverage (kb),705.342
+HTMCP-03-06-02446-10A-01D,Number of bases with zero coverage (kb),551.343
